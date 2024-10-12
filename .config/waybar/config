@@ -1,0 +1,119 @@
+{
+  
+    "height": 10,
+    "layer": "top", 
+    "margin-top": 6,
+    "margin-left": 10,
+    "margin-bottom": 0,
+    "margin-right": 10,
+    "spacing": 5, 
+    "reload_style_on_change": true,
+    "modules-left": ["custom/wall","hyprland/workspaces", "custom/weather"],
+    "modules-center": ["custom/spotify"],
+    "modules-right": ["tray", "backlight", "pulseaudio", "network", "battery", "clock"],
+    "hyprland/workspaces": {
+      "format": "{icon}",
+      "on-click": "activate",
+      "format-icons": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "urgent": "",
+        "active": "",
+        "default": ""
+      }
+    },
+    "hyprland/window": {
+        "format": "{}"
+    },
+    "tray": {
+        "spacing": 10
+    },
+    "clock": {
+        "format": "<span color='#000000'> </span>{:%I:%M:%S %p}",
+        "format-alt": "<span color='#000000'> </span>{:%a %b %d}",
+        "tooltip-format": "<big>{:%B %Y}</big>\n<tt><small>{calendar}</small></tt>",
+        "interval" : 1
+    },
+
+
+    "backlight": {
+        "device": "DP-1",
+        "format": "{icon} {percent}%",
+        "format-icons": ["", "", "", "", "", "", "", "", ""],
+        "on-click": ""
+    },
+
+    "network": {
+        "format-wifi": " {signalStrength} %",
+        "format-ethernet": " wired",
+        "format-disconnected": "",
+        "on-click": "bash ~/.config/waybar/scripts/rofi-wifi-menu.sh",
+        "format-disconnected": "Disconnected  "
+    },
+
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-bluetooth": "  {volume}%",
+        "format-bluetooth-muted": "bl_mute",
+        "format-muted": "",
+        "format-icons": {
+            "headphone": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol"
+    },
+
+    "bluetooth": {
+        "on-click": "~/.config/waybar/scripts/rofi-bluetooth &",
+        "format": "{status}"
+    },
+
+    "battery": {
+      "bat": "BAT0",
+      "adapter": "ADP0",
+      "interval": 60,
+      "states": {
+          "warning": 30,
+          "critical": 15
+      },
+      "max-length": 20,
+      "format": "{icon}   {capacity}%",
+      "format-warning": "{icon} {capacity}%",
+      "format-critical": "{icon} {capacity}%",
+      "format-charging": "<span font-family='Font Awesome 6 Free'></span> {capacity}%",
+      "format-plugged": " {capacity}%",
+      "format-alt": "{icon} {time}",
+      "format-full": " {capacity}%",
+      "format-icons": [" ", " ", " ", " ", " "]
+    },
+
+
+"custom/weather": {
+    "exec": "/home/kdrik/myenv/bin/python ~/.config/waybar/scripts/weather.py",
+    "restart-interval": 300,
+    "return-type": "json",
+    "on-click": "xdg-open https://weather.com/en-IN/weather/today/l/2f2765ff0ce51bf8b06531351caab2d328dd530611c323c485378f4b6318deb6"
+},
+
+
+   "custom/spotify": {
+    "exec":"/home/kdrik/myenv/bin/python ~/.config/waybar/scripts/mediaplayer.py --player spotify",
+    "format": "{}  ",
+    "return-type": "json",
+    "on-click": "playerctl play-pause",
+    "on-double-click-right": "playerctl next",
+    "on-scroll-down": "playerctl previous"
+    },
+
+
+    "custom/wall": {
+        "format": " <span color='#000000'> </span>",
+        "on-click": "bash ~/.config/hypr/scripts/wall.sh"
+    }
+}

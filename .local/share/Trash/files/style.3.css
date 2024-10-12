@@ -1,0 +1,91 @@
+* {
+    background-image: none;
+    box-shadow: none;
+    margin: 0; /* Убираем отступы по умолчанию */
+    padding: 0; /* Убираем внутренние отступы */
+    box-sizing: border-box; /* Учитываем отступы в ширине и высоте */
+}
+
+window {
+    background-color: rgba(24, 24, 24, 0.95); /* Полупрозрачный фон окна */
+    border-radius: 15px; /* Закругленные углы окна */
+    backdrop-filter: blur(15px); /* Эффект размытия фона */
+    padding: 20px; /* Отступы внутри окна */
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.5); /* Тень вокруг окна */
+}
+
+button {
+    border-radius: 10px; /* Закругленные углы кнопок */
+    border-color: #434343; /* Цвет рамки */
+    text-decoration-color: #FFFFFF; /* Цвет текста кнопок */
+    color: #FFFFFF; /* Цвет текста */
+    background-color: #1E1E1E; /* Цвет фона кнопок */
+    border-style: solid; /* Стиль рамки */
+    border-width: 1px; /* Толщина рамки */
+    background-repeat: no-repeat; /* Не повторять изображение */
+    background-position: center; /* Центрировать изображение */
+    background-size: 25%; /* Размер изображения */
+    padding: 10px 20px; /* Внутренние отступы для кнопок */
+    margin: 10px; /* Отступы между кнопками */
+    cursor: pointer; /* Курсор указателя */
+    transition: all 0.3s ease-in-out; /* Плавный переход для всех свойств */
+    position: relative; /* Для эффекта при наведении */
+}
+
+button:focus, button:active, button:hover {
+    background-color: #4A00E6; /* Цвет фона при наведении */
+    outline: none; /* Убираем контур */
+    animation: pulse 1s ease-in-out infinite; /* Анимация пульсации */
+}
+
+@keyframes pulse {
+    0%   {background-color: #4A00E6;}
+    50%  {background-color: #3700B3;}
+    100% {background-color: #4A00E6;}
+}
+
+button::before {
+    content: ''; /* Псевдоэлемент для эффекта нажатия */
+    position: absolute; /* Позиционирование относительно кнопки */
+    top: 50%; /* Центрирование по вертикали */
+    left: 50%; /* Центрирование по горизонтали */
+    width: 300%; /* Ширина эффекта */
+    height: 300%; /* Высота эффекта */
+    background: rgba(255, 255, 255, 0.2); /* Цвет эффекта */
+    border-radius: 50%; /* Закругление */
+    transform: translate(-50%, -50%) scale(0); /* Начальное состояние (невидимо) */
+    transition: transform 0.5s ease; /* Плавный переход */
+}
+
+button:focus::before,
+button:hover::before {
+    transform: translate(-50%, -50%) scale(1); /* Эффект при наведении */
+}
+
+#lock {
+    background-image: url("/usr/share/wlogout/icons/lock.png"), url("/usr/local/share/wlogout/icons/lock.png");
+}
+
+#logout {
+    background-image: url("/usr/share/wlogout/icons/logout.png"), url("/usr/local/share/wlogout/icons/logout.png");
+}
+
+#suspend {
+    background-image: url("/usr/share/wlogout/icons/suspend.png"), url("/usr/local/share/wlogout/icons/suspend.png");
+}
+
+#hibernate {
+    background-image: url("/usr/share/wlogout/icons/hibernate.png"), url("/usr/local/share/wlogout/icons/hibernate.png");
+}
+
+#shutdown {
+    background-image: url("/usr/share/wlogout/icons/shutdown.png"), url("/usr/local/share/wlogout/icons/shutdown.png");
+}
+
+#reboot {
+    background-image: url("/usr/share/wlogout/icons/reboot.png"), url("/usr/local/share/wlogout/icons/reboot.png");
+}
+
+#back {
+    /* Можешь добавить стили для кнопки "Назад" здесь, если нужно */
+}

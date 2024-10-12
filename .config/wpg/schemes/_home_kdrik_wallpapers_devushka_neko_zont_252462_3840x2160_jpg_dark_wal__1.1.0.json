@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kdrik/wallpapers/devushka_neko_zont_252462_3840x2160.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#28181f",
+        "foreground": "#e4e9e5",
+        "cursor": "#e4e9e5"
+    },
+    "colors": {
+        "color0": "#28181f",
+        "color1": "#98989F",
+        "color2": "#C4C0AE",
+        "color3": "#9AA5C5",
+        "color4": "#B2B5C8",
+        "color5": "#BDC6CE",
+        "color6": "#C8D1D2",
+        "color7": "#e4e9e5",
+        "color8": "#9fa3a0",
+        "color9": "#98989F",
+        "color10": "#C4C0AE",
+        "color11": "#9AA5C5",
+        "color12": "#B2B5C8",
+        "color13": "#BDC6CE",
+        "color14": "#C8D1D2",
+        "color15": "#e4e9e5"
+    }
+}

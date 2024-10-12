@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kdrik/wallpapers/devushka_plate_tsvety_872581_3840x2160.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#09090b",
+        "foreground": "#e6caca",
+        "cursor": "#e6caca"
+    },
+    "colors": {
+        "color0": "#09090b",
+        "color1": "#98606A",
+        "color2": "#E4586D",
+        "color3": "#666A9A",
+        "color4": "#C07289",
+        "color5": "#9C9A8C",
+        "color6": "#BAA9A8",
+        "color7": "#e6caca",
+        "color8": "#a18d8d",
+        "color9": "#98606A",
+        "color10": "#E4586D",
+        "color11": "#666A9A",
+        "color12": "#C07289",
+        "color13": "#9C9A8C",
+        "color14": "#BAA9A8",
+        "color15": "#e6caca"
+    }
+}

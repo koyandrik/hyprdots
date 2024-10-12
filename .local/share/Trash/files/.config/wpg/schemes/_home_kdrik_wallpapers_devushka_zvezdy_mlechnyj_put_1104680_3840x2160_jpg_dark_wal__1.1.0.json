@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kdrik/wallpapers/devushka_zvezdy_mlechnyj_put_1104680_3840x2160.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f121d",
+        "foreground": "#e5dee3",
+        "cursor": "#e5dee3"
+    },
+    "colors": {
+        "color0": "#0f121d",
+        "color1": "#9E7179",
+        "color2": "#3B5985",
+        "color3": "#5A6C92",
+        "color4": "#6C8CBA",
+        "color5": "#A298AE",
+        "color6": "#BDB6CA",
+        "color7": "#e5dee3",
+        "color8": "#a09b9e",
+        "color9": "#9E7179",
+        "color10": "#3B5985",
+        "color11": "#5A6C92",
+        "color12": "#6C8CBA",
+        "color13": "#A298AE",
+        "color14": "#BDB6CA",
+        "color15": "#e5dee3"
+    }
+}

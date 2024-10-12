@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kdrik/wallpapers/medium-shot-anime-characters-hugging(1).jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181e31",
+        "foreground": "#e4dfe7",
+        "cursor": "#e4dfe7"
+    },
+    "colors": {
+        "color0": "#181e31",
+        "color1": "#BC678F",
+        "color2": "#678EAE",
+        "color3": "#5FC1C7",
+        "color4": "#BFA7B4",
+        "color5": "#9EB2CF",
+        "color6": "#B1C8DE",
+        "color7": "#e4dfe7",
+        "color8": "#9f9ca1",
+        "color9": "#BC678F",
+        "color10": "#678EAE",
+        "color11": "#5FC1C7",
+        "color12": "#BFA7B4",
+        "color13": "#9EB2CF",
+        "color14": "#B1C8DE",
+        "color15": "#e4dfe7"
+    }
+}

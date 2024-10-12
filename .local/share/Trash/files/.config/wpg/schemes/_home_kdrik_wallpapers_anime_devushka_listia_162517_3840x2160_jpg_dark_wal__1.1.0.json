@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kdrik/wallpapers/anime_devushka_listia_162517_3840x2160.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A223C",
+        "foreground": "#a9e3f4",
+        "cursor": "#a9e3f4"
+    },
+    "colors": {
+        "color0": "#0A223C",
+        "color1": "#4194BC",
+        "color2": "#3698E9",
+        "color3": "#368CF9",
+        "color4": "#51A1DB",
+        "color5": "#4497F8",
+        "color6": "#4EADFB",
+        "color7": "#a9e3f4",
+        "color8": "#769eaa",
+        "color9": "#4194BC",
+        "color10": "#3698E9",
+        "color11": "#368CF9",
+        "color12": "#51A1DB",
+        "color13": "#4497F8",
+        "color14": "#4EADFB",
+        "color15": "#a9e3f4"
+    }
+}

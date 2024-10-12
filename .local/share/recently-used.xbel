@@ -1,0 +1,2359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/kdrik/.config" added="2024-10-09T00:57:08.321249Z" modified="2024-10-09T15:59:08.632392Z" visited="2024-10-09T00:57:08.321250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T00:57:08.321253Z" count="1"/>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-09T15:59:08.620141Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-09T15:59:08.632389Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/Dark+.theme.css" added="2024-10-09T01:09:19.865414Z" modified="2024-10-09T01:09:19.865422Z" visited="2024-10-09T01:09:19.865415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-09T01:09:19.865417Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik" added="2024-10-09T02:25:14.157747Z" modified="2024-10-09T02:25:14.169521Z" visited="2024-10-09T02:25:14.157747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-09T02:25:14.157750Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-09T02:25:14.169519Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/CascadiaCode.zip" added="2024-10-09T02:45:34.541610Z" modified="2024-10-09T02:45:34.541615Z" visited="2024-10-09T02:45:34.541611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-09T02:45:34.541612Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/waybar/scripts/mediaplayer.py" added="2024-10-09T13:14:57.265189Z" modified="2024-10-09T21:05:08.716269Z" visited="2024-10-09T13:14:57.265189Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python3"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T21:05:08.716262Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/waybar/scripts/rofi-bluetooth" added="2024-10-09T13:16:16.761264Z" modified="2024-10-09T16:08:47.631240Z" visited="2024-10-09T13:16:16.761265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T16:08:47.631224Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/waybar/scripts/spotify.sh" added="2024-10-09T13:16:44.591246Z" modified="2024-10-09T21:06:00.410509Z" visited="2024-10-09T13:16:44.591247Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T21:06:00.410507Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/waybar/config" added="2024-10-09T13:19:49.143402Z" modified="2024-10-11T22:03:02.054716Z" visited="2024-10-09T13:19:49.143403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T22:03:02.054713Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/mediaplayer.py" added="2024-10-09T13:30:04.760929Z" modified="2024-10-09T13:30:04.760934Z" visited="2024-10-09T13:30:04.760930Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python3"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T13:30:04.760932Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/hyprland.conf" added="2024-10-09T13:35:00.897835Z" modified="2024-10-12T12:06:55.558096Z" visited="2024-10-09T13:35:00.897835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T21:27:06.538753Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T12:06:55.558090Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/cfg/exec.conf" added="2024-10-09T13:35:15.223140Z" modified="2024-10-11T22:36:34.608145Z" visited="2024-10-09T13:35:15.223142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T21:27:52.929563Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T22:36:34.608122Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/dunst/scripts/playNotificationSound.sh" added="2024-10-09T13:40:11.291078Z" modified="2024-10-09T13:40:11.291085Z" visited="2024-10-09T13:40:11.291079Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T13:40:11.291081Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/dunst/dunstrc" added="2024-10-09T13:40:27.777407Z" modified="2024-10-09T17:23:43.433725Z" visited="2024-10-09T13:40:27.777408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T17:23:43.433721Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/dunst/scripts/change_volume.sh" added="2024-10-09T13:57:13.643332Z" modified="2024-10-09T13:57:13.643339Z" visited="2024-10-09T13:57:13.643334Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T13:57:13.643336Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/dunst/scripts/change_brightness.sh" added="2024-10-09T13:57:49.673966Z" modified="2024-10-09T13:57:49.673970Z" visited="2024-10-09T13:57:49.673966Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T13:57:49.673967Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/cfg/keybindings.conf" added="2024-10-09T13:58:51.107462Z" modified="2024-10-12T12:17:11.780572Z" visited="2024-10-09T13:58:51.107463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T21:33:23.193961Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T12:17:11.780566Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr" added="2024-10-09T15:58:55.744916Z" modified="2024-10-09T15:58:55.751712Z" visited="2024-10-09T15:58:55.744917Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-09T15:58:55.744919Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-09T15:58:55.751711Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/dunst/dunst.conf" added="2024-10-09T17:23:35.328085Z" modified="2024-10-09T17:23:41.819900Z" visited="2024-10-09T17:23:35.328085Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T17:23:41.819896Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/wallpapers/anime_devushka_listia_162517_3840x2160.jpg" added="2024-10-09T17:35:50.596658Z" modified="2024-10-09T17:35:50.960863Z" visited="2024-10-09T17:35:50.596659Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-09T17:35:50.960858Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/wallpapers/devushka_shkolnitsa_sakura_206290_3840x2160.jpg" added="2024-10-09T17:36:08.033775Z" modified="2024-10-09T17:36:08.408652Z" visited="2024-10-09T17:36:08.033776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-09T17:36:08.408648Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/test" added="2024-10-09T17:39:14.493382Z" modified="2024-10-09T17:39:14.500982Z" visited="2024-10-09T17:39:14.493382Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-09T17:39:14.493385Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-09T17:39:14.500980Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/test/waywall.sh" added="2024-10-09T17:39:43.659660Z" modified="2024-10-09T17:39:43.659663Z" visited="2024-10-09T17:39:43.659660Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T17:39:43.659661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/scripts/wall.sh" added="2024-10-09T17:44:32.763500Z" modified="2024-10-12T12:20:03.394568Z" visited="2024-10-09T17:44:32.763501Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-10T21:40:50.065714Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T12:20:03.394551Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/waybar/style.css" added="2024-10-09T17:52:46.048614Z" modified="2024-10-11T21:50:38.764365Z" visited="2024-10-09T17:52:46.048615Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T21:50:38.764349Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.cache/wal/colors.css" added="2024-10-09T18:24:05.565032Z" modified="2024-10-12T00:33:50.741528Z" visited="2024-10-09T18:24:05.565033Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T18:31:43.551397Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T00:33:50.741507Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.cache/wal/colors" added="2024-10-09T18:33:41.989476Z" modified="2024-10-12T00:33:59.353485Z" visited="2024-10-09T18:33:41.989477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T22:17:12.485300Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T00:33:59.353475Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/style.css" added="2024-10-09T18:40:55.695764Z" modified="2024-10-11T23:51:39.694570Z" visited="2024-10-09T18:40:55.695766Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T23:51:39.694566Z" count="2"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T18:41:08.172726Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-09-212053_hyprshot.png" added="2024-10-09T19:21:20.471554Z" modified="2024-10-09T19:21:20.471570Z" visited="2024-10-09T19:21:20.471556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=gimp-2.10 --file-forwarding org.gimp.GIMP @@u %U @@&apos;" modified="2024-10-09T19:21:20.471562Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/rofi/config.rasi" added="2024-10-09T19:34:16.337671Z" modified="2024-10-12T01:28:41.939068Z" visited="2024-10-09T19:34:16.337671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T21:50:17.801970Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T01:28:41.939060Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/cava/config" added="2024-10-09T21:41:07.011082Z" modified="2024-10-09T22:15:22.923735Z" visited="2024-10-09T21:41:07.011082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T22:15:22.923718Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.cache/wal/colors-vscode.json" added="2024-10-09T21:47:14.123340Z" modified="2024-10-09T21:47:17.945234Z" visited="2024-10-09T21:47:14.123343Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T21:47:17.945215Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/cava/dracula.cava" added="2024-10-09T22:15:09.717496Z" modified="2024-10-09T22:15:09.717528Z" visited="2024-10-09T22:15:09.717498Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T22:15:09.717510Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/0xProto.zip" added="2024-10-09T22:28:53.937680Z" modified="2024-10-11T18:40:37.910569Z" visited="2024-10-09T22:28:53.937681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-09T22:28:53.937691Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=ark --file-forwarding org.kde.ark @@u %U @@&apos;" modified="2024-10-11T18:40:37.910557Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/3270.zip" added="2024-10-09T22:29:58.149466Z" modified="2024-10-09T22:29:58.149482Z" visited="2024-10-09T22:29:58.149469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-09T22:29:58.149475Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/kitty/kitty.conf" added="2024-10-09T22:36:48.459296Z" modified="2024-10-12T01:16:46.884655Z" visited="2024-10-09T22:36:48.459297Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-09T22:36:48.459303Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T01:16:46.884648Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-10-005445_hyprshot.png" added="2024-10-09T22:55:08.770549Z" modified="2024-10-09T22:56:08.298643Z" visited="2024-10-09T22:55:08.770551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-10-09T22:56:08.298634Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-10-005408_hyprshot.png" added="2024-10-09T22:55:54.601794Z" modified="2024-10-09T22:55:54.601808Z" visited="2024-10-09T22:55:54.601796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-10-09T22:55:54.601801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-10-005759_hyprshot.png" added="2024-10-09T22:58:08.184179Z" modified="2024-10-09T23:17:27.388678Z" visited="2024-10-09T22:58:08.184181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-10-09T22:58:28.578359Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-09T23:17:27.388669Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-10-010418_hyprshot.png" added="2024-10-09T23:19:00.833032Z" modified="2024-10-09T23:19:00.833045Z" visited="2024-10-09T23:19:00.833033Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-09T23:19:00.833038Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-10-012017_hyprshot.png" added="2024-10-09T23:20:25.119692Z" modified="2024-10-09T23:20:25.136750Z" visited="2024-10-09T23:20:25.119693Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.telegram.desktop" exec="&apos;gio open %u&apos;" modified="2024-10-09T23:20:25.119697Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-09T23:20:25.136748Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-10-010502_hyprshot.png" added="2024-10-09T23:33:21.835242Z" modified="2024-10-09T23:33:21.835285Z" visited="2024-10-09T23:33:21.835270Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-09T23:33:21.835279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/py-project/fitrik" added="2024-10-10T00:29:52.953482Z" modified="2024-10-10T00:29:52.978810Z" visited="2024-10-10T00:29:52.953484Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-10T00:29:52.953512Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-10T00:29:52.978806Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/configs/ipvanish-AD-Andorra-la-Vella---Virtual-adv-c01.ovpn" added="2024-10-10T11:38:54.150527Z" modified="2024-10-10T11:38:54.150531Z" visited="2024-10-10T11:38:54.150527Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-10T11:38:54.150529Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/configs/ipvanish-AE-Dubai-dxb-c04.ovpn" added="2024-10-10T11:39:16.738278Z" modified="2024-10-10T11:39:16.738281Z" visited="2024-10-10T11:39:16.738278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T11:39:16.738279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/configs/ipvanish-PL-Warsaw-waw-c01.ovpn" added="2024-10-10T11:41:47.575426Z" modified="2024-10-10T11:41:47.575436Z" visited="2024-10-10T11:41:47.575427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T11:41:47.575434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/configs/ipvanish-AU-Melbourne-mel-b08.ovpn" added="2024-10-10T13:05:24.604541Z" modified="2024-10-10T13:05:24.604552Z" visited="2024-10-10T13:05:24.604542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T13:05:24.604550Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/configs/ipvanish-PL-Warsaw-waw-c05.ovpn" added="2024-10-10T13:20:22.987001Z" modified="2024-10-10T13:44:46.495486Z" visited="2024-10-10T13:20:22.987002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T13:20:22.987010Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-10T13:41:28.457063Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-10T13:44:46.495484Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/configs/ca.ipvanish.com.crt" added="2024-10-10T13:20:41.663596Z" modified="2024-10-10T19:16:33.288285Z" visited="2024-10-10T13:20:41.663597Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pkix-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T19:16:33.288283Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/configs/ipvanish-NL-Amsterdam-ams-c54.ovpn" added="2024-10-10T13:37:07.537181Z" modified="2024-10-10T13:37:07.537202Z" visited="2024-10-10T13:37:07.537191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T13:37:07.537200Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/ipvanish-PL-Warsaw-waw-c01.ovpn" added="2024-10-10T18:22:14.626899Z" modified="2024-10-10T19:01:42.884060Z" visited="2024-10-10T18:22:14.626900Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-10T19:01:42.884054Z" count="2"/>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T18:23:23.202912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/ipvanish-PL-Warsaw-waw-c02.ovpn" added="2024-10-10T18:22:26.263057Z" modified="2024-10-10T18:57:24.727917Z" visited="2024-10-10T18:22:26.263060Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-10T18:57:24.727911Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/ipvanish-PL-Warsaw-waw-c03.ovpn" added="2024-10-10T18:22:27.886996Z" modified="2024-10-10T18:22:27.887013Z" visited="2024-10-10T18:22:27.886998Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-10T18:22:27.887002Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/NetworkManager/NetworkManager.conf" added="2024-10-10T18:39:48.966943Z" modified="2024-10-10T18:39:48.966954Z" visited="2024-10-10T18:39:48.966944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-10T18:39:48.966947Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/cfg/configs/ipvanish-PL-Warsaw-waw-c03.ovpn" added="2024-10-10T19:02:42.394464Z" modified="2024-10-10T19:02:42.394468Z" visited="2024-10-10T19:02:42.394465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T19:02:42.394466Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/ipvanish-AD-Andorra-la-Vella---Virtual-adv-c02.ovpn" added="2024-10-10T19:14:09.610692Z" modified="2024-10-10T19:14:09.610706Z" visited="2024-10-10T19:14:09.610699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-10T19:14:09.610703Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/ipvanish-AD-Andorra-la-Vella---Virtual-adv-c02.ovpn" added="2024-10-10T19:15:05.207279Z" modified="2024-10-10T19:15:05.207282Z" visited="2024-10-10T19:15:05.207279Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T19:15:05.207280Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/test/ipvanish-PL-Warsaw-waw-c01.ovpn" added="2024-10-10T19:23:07.958995Z" modified="2024-10-10T19:27:54.727572Z" visited="2024-10-10T19:23:07.958996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2024-10-10T19:23:07.959004Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-10T19:27:54.727554Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/ca.ipvanish.com.crt" added="2024-10-10T19:35:28.271362Z" modified="2024-10-10T19:35:28.271371Z" visited="2024-10-10T19:35:28.271365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pkix-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-10T19:35:28.271367Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/py-project/flask" added="2024-10-10T20:07:22.910804Z" modified="2024-10-10T20:07:22.928944Z" visited="2024-10-10T20:07:22.910805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-10T20:07:22.910809Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-10T20:07:22.928941Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/wallpapers/devushka_neko_zont_252462_3840x2160.jpg" added="2024-10-10T21:25:05.227082Z" modified="2024-10-10T21:25:05.595961Z" visited="2024-10-10T21:25:05.227086Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-10T21:25:05.595955Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/154928-odinokoe_anime-art-anime-okno-sinij-3840x2160.jpg" added="2024-10-10T21:25:53.525835Z" modified="2024-10-10T21:25:53.525843Z" visited="2024-10-10T21:25:53.525836Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-10T21:25:53.525838Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/medium-shot-anime-characters-hugging.jpg" added="2024-10-10T21:26:40.279598Z" modified="2024-10-10T21:26:40.279615Z" visited="2024-10-10T21:26:40.279600Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-10T21:26:40.279608Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/medium-shot-anime-characters-hugging(1).jpg" added="2024-10-10T21:27:18.743241Z" modified="2024-10-10T21:27:18.743256Z" visited="2024-10-10T21:27:18.743244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-10T21:27:18.743250Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/medium-shot-anime-characters-hugging(2).jpg" added="2024-10-10T21:27:44.682058Z" modified="2024-10-10T21:27:44.682069Z" visited="2024-10-10T21:27:44.682061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-10T21:27:44.682064Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-041957_hyprshot.png" added="2024-10-11T02:20:13.662964Z" modified="2024-10-11T02:20:13.662983Z" visited="2024-10-11T02:20:13.662966Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T02:20:13.662970Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-042404_hyprshot.png" added="2024-10-11T02:24:23.659520Z" modified="2024-10-11T02:24:41.401968Z" visited="2024-10-11T02:24:23.659522Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T02:24:41.401965Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-042553_hyprshot.png" added="2024-10-11T02:26:01.083649Z" modified="2024-10-11T02:35:09.754366Z" visited="2024-10-11T02:26:01.083650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T02:35:09.754361Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-043136_hyprshot.png" added="2024-10-11T02:31:53.944165Z" modified="2024-10-11T02:38:35.072869Z" visited="2024-10-11T02:31:53.944167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T02:38:35.072865Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-043523_hyprshot.png" added="2024-10-11T02:35:30.276206Z" modified="2024-10-11T02:35:30.276235Z" visited="2024-10-11T02:35:30.276209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T02:35:30.276221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/solid.zip" added="2024-10-11T03:59:46.706677Z" modified="2024-10-11T18:40:41.368802Z" visited="2024-10-11T03:59:46.706679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T03:59:46.706684Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=ark --file-forwarding org.kde.ark @@u %U @@&apos;" modified="2024-10-11T18:40:41.368795Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/Nicepage-6.19.6.exe" added="2024-10-11T04:01:00.238995Z" modified="2024-10-11T04:01:00.239025Z" visited="2024-10-11T04:01:00.238997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T04:01:00.239008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-081200_hyprshot.png" added="2024-10-11T06:14:08.483210Z" modified="2024-10-11T06:14:08.483224Z" visited="2024-10-11T06:14:08.483211Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T06:14:08.483217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-081857_hyprshot.png" added="2024-10-11T06:19:07.573544Z" modified="2024-10-11T06:19:07.573559Z" visited="2024-10-11T06:19:07.573546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T06:19:07.573552Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-081836_hyprshot.png" added="2024-10-11T06:19:15.381054Z" modified="2024-10-11T06:19:15.381097Z" visited="2024-10-11T06:19:15.381058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T06:19:15.381088Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.cache/wal/colors-waybar.css" added="2024-10-11T07:13:59.203385Z" modified="2024-10-11T07:13:59.203413Z" visited="2024-10-11T07:13:59.203388Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T07:13:59.203397Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-091931_hyprshot.png" added="2024-10-11T07:20:05.294170Z" modified="2024-10-11T07:20:05.294185Z" visited="2024-10-11T07:20:05.294173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T07:20:05.294177Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-095418_hyprshot.png" added="2024-10-11T07:54:41.379591Z" modified="2024-10-11T07:56:04.020284Z" visited="2024-10-11T07:54:41.379593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T07:56:04.020275Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-113559_hyprshot.png" added="2024-10-11T09:36:18.469708Z" modified="2024-10-11T09:37:00.244274Z" visited="2024-10-11T09:36:18.469713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T09:37:00.244272Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-122245_hyprshot.png" added="2024-10-11T10:22:59.122482Z" modified="2024-10-11T10:22:59.137902Z" visited="2024-10-11T10:22:59.122483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.telegram.desktop" exec="&apos;gio open %u&apos;" modified="2024-10-11T10:22:59.122485Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-11T10:22:59.137899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/trust/Trustwallet-Mnemonic-Grabber" added="2024-10-11T13:59:19.969816Z" modified="2024-10-11T13:59:19.998287Z" visited="2024-10-11T13:59:19.969817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-11T13:59:19.969820Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-11T13:59:19.998284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-195024_hyprshot.png" added="2024-10-11T17:50:59.223861Z" modified="2024-10-11T18:03:24.942476Z" visited="2024-10-11T17:50:59.223878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:03:24.942472Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-195033_hyprshot.png" added="2024-10-11T17:51:04.686857Z" modified="2024-10-11T18:03:30.640338Z" visited="2024-10-11T17:51:04.686859Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:03:30.640320Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-195035_hyprshot.png" added="2024-10-11T17:51:12.444747Z" modified="2024-10-11T17:51:12.444769Z" visited="2024-10-11T17:51:12.444749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T17:51:12.444753Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/%D0%92%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BD%D0%B0%D0%B4%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BA%D0%BB%D0%B0%D1%81.docx" added="2024-10-11T17:59:32.147837Z" modified="2024-10-11T17:59:32.147884Z" visited="2024-10-11T17:59:32.147844Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T17:59:32.147858Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-200532_hyprshot.png" added="2024-10-11T18:06:58.155331Z" modified="2024-10-11T18:08:07.047700Z" visited="2024-10-11T18:06:58.155332Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:08:07.047692Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1561591%20Vspak%20-%20Vspak.osz" added="2024-10-11T18:12:58.565939Z" modified="2024-10-11T18:32:05.050134Z" visited="2024-10-11T18:12:58.565946Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:12:58.565965Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1661906%20vspak%20-%20.osz" added="2024-10-11T18:13:08.495487Z" modified="2024-10-11T18:32:05.050120Z" visited="2024-10-11T18:13:08.495495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:13:08.495508Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050119Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1524420%20Vspak%20-%20tipichnyy%20lishniy%20ll.osz" added="2024-10-11T18:13:20.739552Z" modified="2024-10-11T18:32:05.050113Z" visited="2024-10-11T18:13:20.739556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:13:20.739583Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050112Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1674969%20Vspak%20-%20Typical%20extra.osz" added="2024-10-11T18:13:33.083210Z" modified="2024-10-11T18:32:05.050104Z" visited="2024-10-11T18:13:33.083223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:13:33.083240Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050103Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2010001%20Vspak%20-%20TI%20MOY%20MIR%20KOTORIY%20RUXNUL.osz" added="2024-10-11T18:13:41.463237Z" modified="2024-10-11T18:32:05.050096Z" visited="2024-10-11T18:13:41.463246Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:13:41.463280Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050094Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1640903%20apfs%20-%20Ne%20v%20adekvate.osz" added="2024-10-11T18:14:39.671966Z" modified="2024-10-11T18:32:05.050087Z" visited="2024-10-11T18:14:39.671978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:14:39.672008Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050086Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1859400%20avtostopom%20po%20faze%20sna%20-%20$alt%20$nuff.osz" added="2024-10-11T18:14:52.475160Z" modified="2024-10-11T18:32:05.050079Z" visited="2024-10-11T18:14:52.475163Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:14:52.475174Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2226924%20apfs%20-%20tancy%20na%20Vy%20bolshogo%20psa.osz" added="2024-10-11T18:15:10.035105Z" modified="2024-10-11T18:32:05.050069Z" visited="2024-10-11T18:15:10.035108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:15:10.035128Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050068Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2088851%20Kishlak%20-%20Holodno.osz" added="2024-10-11T18:15:26.643370Z" modified="2024-10-11T18:32:05.050060Z" visited="2024-10-11T18:15:26.643373Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:15:26.643389Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050059Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1846474%20kishlak%20-%20vozvrashysa.osz" added="2024-10-11T18:15:57.910368Z" modified="2024-10-11T18:32:05.050053Z" visited="2024-10-11T18:15:57.910378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:15:57.910440Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050052Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1602388%20Kishlak%20-%20i%20am%20a%20disco%20ball.osz" added="2024-10-11T18:16:04.694616Z" modified="2024-10-11T18:32:05.050044Z" visited="2024-10-11T18:16:04.694619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:16:04.694651Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050043Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2090656%20kishlak%20-%20svetlyachok.osz" added="2024-10-11T18:16:09.333260Z" modified="2024-10-11T18:32:05.050036Z" visited="2024-10-11T18:16:09.333263Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:16:09.333289Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050035Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1644354%20Kishlak%20-%20Ya%20uebyvayu%20v%20jazz.osz" added="2024-10-11T18:16:13.562546Z" modified="2024-10-11T18:32:05.050028Z" visited="2024-10-11T18:16:13.562549Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:16:13.562565Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050027Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2084341%20Kishlak%20-%20SHIK2.osz" added="2024-10-11T18:16:19.750095Z" modified="2024-10-11T18:32:05.050020Z" visited="2024-10-11T18:16:19.750114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:16:19.750177Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050019Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1498578%20Kishlak%20-%20Podyezd.osz" added="2024-10-11T18:16:27.989131Z" modified="2024-10-11T18:32:05.050012Z" visited="2024-10-11T18:16:27.989136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:16:27.989162Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050011Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2088684%20Kishlak%20-%2015%20preparatov.osz" added="2024-10-11T18:16:34.220596Z" modified="2024-10-11T18:32:05.050004Z" visited="2024-10-11T18:16:34.220601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:16:34.220656Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.050003Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1887528%20Kishlak%20-%20Po-staromy.osz" added="2024-10-11T18:16:40.180772Z" modified="2024-10-11T18:32:05.049997Z" visited="2024-10-11T18:16:40.180776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:16:40.180796Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049995Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1732612%20Kishlak%20-%20Samyy%20luchshiy%20den&apos;.osz" added="2024-10-11T18:16:54.836796Z" modified="2024-10-11T18:32:05.049989Z" visited="2024-10-11T18:16:54.836805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:16:54.836822Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049988Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2017931%20Kishlak%20-%20Apnoe.osz" added="2024-10-11T18:16:57.910651Z" modified="2024-10-11T18:32:05.049979Z" visited="2024-10-11T18:16:57.910657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:16:57.910666Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049978Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1563198%20Kishlak%20-%20Hey.osz" added="2024-10-11T18:17:05.896224Z" modified="2024-10-11T18:32:05.049971Z" visited="2024-10-11T18:17:05.896226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:17:05.896250Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049970Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2088252%20Kishlak%20-%2015%20preparatov.osz" added="2024-10-11T18:17:10.099911Z" modified="2024-10-11T18:32:05.049962Z" visited="2024-10-11T18:17:10.099919Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:17:10.099937Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049961Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1786387%20Kishlak%20-%20Sbornik%20khuyni%20i%20kartinki.osz" added="2024-10-11T18:17:15.667137Z" modified="2024-10-11T18:32:05.049954Z" visited="2024-10-11T18:17:15.667142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:17:15.667182Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049952Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1451790%20kishlak%20-%20Haunihuau.osz" added="2024-10-11T18:17:23.813002Z" modified="2024-10-11T18:32:05.049944Z" visited="2024-10-11T18:17:23.813008Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:17:23.813018Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049943Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1847372%20Kishlak%20-%20Music.osz" added="2024-10-11T18:17:31.669152Z" modified="2024-10-11T18:32:05.049936Z" visited="2024-10-11T18:17:31.669155Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:17:31.669170Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1519150%20Kishlak%20-%20Na%20photo.osz" added="2024-10-11T18:17:47.081244Z" modified="2024-10-11T18:32:05.049927Z" visited="2024-10-11T18:17:47.081253Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:17:47.081273Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049926Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1715686%20Kishlak%20-%20Ten&apos;.osz" added="2024-10-11T18:17:52.217809Z" modified="2024-10-11T18:32:05.049920Z" visited="2024-10-11T18:17:52.217817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:17:52.217831Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049919Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2090100%20kishlak%20-%20molcha.osz" added="2024-10-11T18:18:03.080601Z" modified="2024-10-11T18:32:05.049912Z" visited="2024-10-11T18:18:03.080606Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:18:03.080667Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049911Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2089309%20Kishlak%20-%2025.osz" added="2024-10-11T18:18:13.189080Z" modified="2024-10-11T18:32:05.049903Z" visited="2024-10-11T18:18:13.189087Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:18:13.189109Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049902Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2092183%20kishlak%20-%20rjaviy.osz" added="2024-10-11T18:18:21.057880Z" modified="2024-10-11T18:32:05.049895Z" visited="2024-10-11T18:18:21.057899Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:18:21.057925Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049893Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1802540%20Kishlak%20-%20Toler.osz" added="2024-10-11T18:18:25.270061Z" modified="2024-10-11T18:32:05.049887Z" visited="2024-10-11T18:18:25.270065Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:18:25.270083Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049885Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1887424%20Kishlak%20-%20Music.osz" added="2024-10-11T18:18:29.617964Z" modified="2024-10-11T18:32:05.049878Z" visited="2024-10-11T18:18:29.617972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:18:29.617991Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049877Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1890054%20Kishlak%20-%20Toler.osz" added="2024-10-11T18:18:33.172945Z" modified="2024-10-11T18:32:05.049870Z" visited="2024-10-11T18:18:33.172947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:18:33.172971Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049868Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2171653%20kishlak%20-%20.osz" added="2024-10-11T18:18:45.375038Z" modified="2024-10-11T18:32:05.049861Z" visited="2024-10-11T18:18:45.375052Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:18:45.375104Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049860Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1964543%20Kishlak%20-%20Hyperjump.osz" added="2024-10-11T18:18:49.688748Z" modified="2024-10-11T18:32:05.049853Z" visited="2024-10-11T18:18:49.688751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:18:49.688760Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049851Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1562935%20Kishlak%20-%20Alfa-Pvp.osz" added="2024-10-11T18:18:57.081338Z" modified="2024-10-11T18:32:05.049844Z" visited="2024-10-11T18:18:57.081340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:18:57.081360Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049843Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1899500%20Kishlak%20-%20Ya%20kak%20bolt.osz" added="2024-10-11T18:19:04.846567Z" modified="2024-10-11T18:32:05.049835Z" visited="2024-10-11T18:19:04.846568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:19:04.846577Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049834Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2039832%20Kishlak%20-%20Nastya(Alternative%20version).osz" added="2024-10-11T18:19:14.366925Z" modified="2024-10-11T18:32:05.049826Z" visited="2024-10-11T18:19:14.366929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:19:14.366945Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049824Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2086087%20Kishlak%20-%20Shavala%20Moskva.osz" added="2024-10-11T18:19:21.339535Z" modified="2024-10-11T18:32:05.049816Z" visited="2024-10-11T18:19:21.339536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:19:21.339539Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049815Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2086406%20Kishlak%20-%20Shik%202.osz" added="2024-10-11T18:19:28.195282Z" modified="2024-10-11T18:32:05.049806Z" visited="2024-10-11T18:19:28.195283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:19:28.195293Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049805Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2088859%20Kishlak%20-%20Rzhaviy.osz" added="2024-10-11T18:19:46.706798Z" modified="2024-10-11T18:32:05.049797Z" visited="2024-10-11T18:19:46.706803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:19:46.706834Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049796Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2092891%20Kishlak%20-%20Marina%20oboikina.osz" added="2024-10-11T18:19:59.535755Z" modified="2024-10-11T18:32:05.049789Z" visited="2024-10-11T18:19:59.535760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:19:59.535881Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049787Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1714501%20Kishlak%20-%20Tenb.osz" added="2024-10-11T18:20:07.412498Z" modified="2024-10-11T18:32:05.049780Z" visited="2024-10-11T18:20:07.412500Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:20:07.412510Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049779Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2089612%20Kishlak%20-%20Gryazniy%20kaif.osz" added="2024-10-11T18:20:14.262284Z" modified="2024-10-11T18:32:05.049771Z" visited="2024-10-11T18:20:14.262300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:20:14.262376Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049770Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2087270%20Kishlak%20-%20Skychno.osz" added="2024-10-11T18:20:38.114112Z" modified="2024-10-11T18:32:05.049762Z" visited="2024-10-11T18:20:38.114117Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:20:38.114150Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049761Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2221132%20Kishlak%20-%20STIGMATA.osz" added="2024-10-11T18:20:43.855697Z" modified="2024-10-11T18:32:05.049753Z" visited="2024-10-11T18:20:43.855706Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:20:43.855783Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049752Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2086259%20Kishlak%20-%20Mul&apos;tiki.osz" added="2024-10-11T18:20:48.399966Z" modified="2024-10-11T18:32:05.049744Z" visited="2024-10-11T18:20:48.399973Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:20:48.399981Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2101361%20Kishlak%20-%20Intro.osz" added="2024-10-11T18:20:55.118609Z" modified="2024-10-11T18:32:05.049735Z" visited="2024-10-11T18:20:55.118610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:20:55.118615Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049734Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2213374%20kishlak,%20sem&apos;sot%20sem&apos;%20-%20lava.osz" added="2024-10-11T18:21:18.256074Z" modified="2024-10-11T18:32:05.049727Z" visited="2024-10-11T18:21:18.256084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:21:18.256118Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049725Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2026245%20Kishlak,%20semsot%20sem%20-%20Boleu%20toboi.osz" added="2024-10-11T18:21:58.183512Z" modified="2024-10-11T18:32:05.049718Z" visited="2024-10-11T18:21:58.183549Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:21:58.183570Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049717Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2253163%20kishlak%20-%20vozvrashysa.osz" added="2024-10-11T18:22:04.883683Z" modified="2024-10-11T18:32:05.049709Z" visited="2024-10-11T18:22:04.883689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:22:04.883744Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2260338%20kishlak%20-%20vozvrashchajsya.osz" added="2024-10-11T18:22:08.703091Z" modified="2024-10-11T18:32:05.049700Z" visited="2024-10-11T18:22:08.703093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:22:08.703102Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049699Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1535014%20Dzhizus%20-%20Van%20Gogh.osz" added="2024-10-11T18:23:37.098405Z" modified="2024-10-11T18:32:05.049692Z" visited="2024-10-11T18:23:37.098406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:23:37.098410Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049691Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1089504%20Dzhizus%20-%20Rassvet.osz" added="2024-10-11T18:23:43.133763Z" modified="2024-10-11T18:32:05.049682Z" visited="2024-10-11T18:23:43.133766Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:23:43.133788Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049680Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1282497%20Dzhizus%20-%20Tu%20menya%20ne%20ishi.osz" added="2024-10-11T18:23:46.893053Z" modified="2024-10-11T18:32:05.049674Z" visited="2024-10-11T18:23:46.893055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:23:46.893078Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049673Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1702279%20dzhizus%20-%20reGeneration.osz" added="2024-10-11T18:24:00.133062Z" modified="2024-10-11T18:32:05.049666Z" visited="2024-10-11T18:24:00.133082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:00.133104Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049665Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/964986%20Dzhizus%20-%20Girl%20in%20Class.osz" added="2024-10-11T18:24:05.549150Z" modified="2024-10-11T18:32:05.049657Z" visited="2024-10-11T18:24:05.549156Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:05.549194Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049656Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1005504%20Dzhizus%20-%20Van%20Gogh.osz" added="2024-10-11T18:24:16.408826Z" modified="2024-10-11T18:32:05.049650Z" visited="2024-10-11T18:24:16.408834Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:16.408861Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049648Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2129738%20Dzhizus%20-%20What%20have%20we%20done%20to%20you.osz" added="2024-10-11T18:24:27.865341Z" modified="2024-10-11T18:32:05.049642Z" visited="2024-10-11T18:24:27.865369Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:27.865421Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049641Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1792783%20Dzhizus%20-%20OTKROY%20GLAZA!!!%20(ili%20zakroy%20svoy%20rot).osz" added="2024-10-11T18:24:29.540411Z" modified="2024-10-11T18:32:05.049634Z" visited="2024-10-11T18:24:29.540422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:29.540436Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1866074%20Dzhizus%20-%20TI%20NICHEGO%20NE%20PONYALA.osz" added="2024-10-11T18:24:37.233660Z" modified="2024-10-11T18:32:05.049624Z" visited="2024-10-11T18:24:37.233667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:37.233731Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049623Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1039429%20Dzhizus%20-%20Devochka%20v%20klasse.osz" added="2024-10-11T18:24:39.411106Z" modified="2024-10-11T18:32:05.049614Z" visited="2024-10-11T18:24:39.411108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:39.411116Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1877707%20Dzhizus%20-%20Avtomat.osz" added="2024-10-11T18:24:43.612522Z" modified="2024-10-11T18:32:05.049605Z" visited="2024-10-11T18:24:43.612542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:43.612610Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049604Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2166867%20Dzhizus%20-%20reGeneration.osz" added="2024-10-11T18:24:52.494531Z" modified="2024-10-11T18:32:05.049597Z" visited="2024-10-11T18:24:52.494543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:52.494559Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049596Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2158499%20Dzhizus%20-%20Perenaselenie.osz" added="2024-10-11T18:24:55.688082Z" modified="2024-10-11T18:32:05.049588Z" visited="2024-10-11T18:24:55.688090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:24:55.688119Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049587Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2046903%20Dzhizus,%20Igla%20-%20Femida.osz" added="2024-10-11T18:25:05.725095Z" modified="2024-10-11T18:32:05.049578Z" visited="2024-10-11T18:25:05.725099Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:25:05.725145Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049577Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1885253%20Dzhizus%20-%20Groza.osz" added="2024-10-11T18:25:13.199045Z" modified="2024-10-11T18:32:05.049569Z" visited="2024-10-11T18:25:13.199096Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:25:13.199158Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049568Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2135559%20Dzhizus%20-%20YA%20ne%20khochu%20stat&apos;%20tvoim%20kumirom%20(Intro)%20(Sped%20Up%20Ver.).osz" added="2024-10-11T18:25:20.902375Z" modified="2024-10-11T18:32:05.049560Z" visited="2024-10-11T18:25:20.902377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:25:20.902387Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049558Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2202691%20Dzhizus,%20Julia%20Savicheva%20-%20Leto%20Bez%20Tebya.osz" added="2024-10-11T18:25:39.383157Z" modified="2024-10-11T18:32:05.049547Z" visited="2024-10-11T18:25:39.383161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:25:39.383179Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049546Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2030995%20Dzhizus%20-%20Spirit%20of%20the%20World.osz" added="2024-10-11T18:25:50.757070Z" modified="2024-10-11T18:32:05.049537Z" visited="2024-10-11T18:25:50.757075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:25:50.757100Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049535Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2214086%20f0lk%20-%20v%20gorode%20(speed%20up).osz" added="2024-10-11T18:26:35.509307Z" modified="2024-10-11T18:32:05.049527Z" visited="2024-10-11T18:26:35.509314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:26:35.509327Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049526Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2245333%20f0lk%20-%20Plotno.osz" added="2024-10-11T18:26:46.534458Z" modified="2024-10-11T18:32:05.049519Z" visited="2024-10-11T18:26:46.534461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:26:46.534467Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049518Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2137151%20f0lk%20-%20ne%20doljno%20tebya%20ebat.osz" added="2024-10-11T18:26:50.149610Z" modified="2024-10-11T18:32:05.049510Z" visited="2024-10-11T18:26:50.149614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:26:50.149623Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049509Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2215830%20f0lk_Badda%20Boo%20-%20ISKRENNOSTY.osz" added="2024-10-11T18:26:53.754111Z" modified="2024-10-11T18:32:05.049501Z" visited="2024-10-11T18:26:53.754119Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:26:53.754259Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049500Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2092090%20f0lk%20-%20v%20gorode%20(speed%20up).osz" added="2024-10-11T18:27:02.153143Z" modified="2024-10-11T18:32:05.049491Z" visited="2024-10-11T18:27:02.153147Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:27:02.153159Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049490Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1977808%20NEWLIGHTCHILD%20-%20uletayu(speed%20up).osz" added="2024-10-11T18:27:39.379693Z" modified="2024-10-11T18:32:05.049481Z" visited="2024-10-11T18:27:39.379726Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:27:39.379745Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2104785%20NEWLIGHTCHILD%20-%20DANCE%20FLOOR%20(speed%20up).osz" added="2024-10-11T18:27:42.616375Z" modified="2024-10-11T18:32:05.049472Z" visited="2024-10-11T18:27:42.616380Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:27:42.616403Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049471Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2212263%20NEWLIGHTCHILD%20-%20now.osz" added="2024-10-11T18:27:49.993161Z" modified="2024-10-11T18:32:05.049462Z" visited="2024-10-11T18:27:49.993166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:27:49.993218Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049461Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2109024%20NEWLIGHTCHILD%20-%20MONEY%20DANCE.osz" added="2024-10-11T18:27:54.444648Z" modified="2024-10-11T18:32:05.049453Z" visited="2024-10-11T18:27:54.444652Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:27:54.444664Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049452Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2074432%20NEWLIGHTCHILD%20-%20DANCE%20FLOOR%20(Speed%20up).osz" added="2024-10-11T18:27:58.540236Z" modified="2024-10-11T18:32:05.049444Z" visited="2024-10-11T18:27:58.540241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:27:58.540269Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049442Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2205859%20newlightchild%20-%20newlightchild%20-%20(speed%20up%20+%20pitch%20up).osz" added="2024-10-11T18:28:07.273159Z" modified="2024-10-11T18:32:05.049433Z" visited="2024-10-11T18:28:07.273167Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:28:07.273198Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049432Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1961531%20NEWLIGHTCHILD%20-%20Stress.osz" added="2024-10-11T18:28:39.905115Z" modified="2024-10-11T18:32:05.049422Z" visited="2024-10-11T18:28:39.905127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:28:39.905161Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049421Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2092887%20LSP%20-%20Secret%20Place.osz" added="2024-10-11T18:29:09.382017Z" modified="2024-10-11T18:32:05.049412Z" visited="2024-10-11T18:29:09.382027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:29:09.382064Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1908464%20LSP%20-%20Telo.osz" added="2024-10-11T18:29:20.807441Z" modified="2024-10-11T18:32:05.049402Z" visited="2024-10-11T18:29:20.807450Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:29:20.807477Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049401Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1259887%20LSP%20-%20Ubiytsa%20Svin.osz" added="2024-10-11T18:29:22.360720Z" modified="2024-10-11T18:32:05.049392Z" visited="2024-10-11T18:29:22.360724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:29:22.360740Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049391Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/1322257%20LSP%20-%20Parniy%20Durak.osz" added="2024-10-11T18:29:36.819824Z" modified="2024-10-11T18:32:05.049380Z" visited="2024-10-11T18:29:36.819826Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:29:36.819829Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/2219982%20LSP%20-%20Secret%20Place.osz" added="2024-10-11T18:29:59.615608Z" modified="2024-10-11T18:32:05.049359Z" visited="2024-10-11T18:29:59.615618Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-osu-beatmap-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T18:29:59.615649Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:32:05.049356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.var/app/org.telegram.desktop/data/TelegramDesktop/tdata/temp_data/-_purpo_-.rar" added="2024-10-11T18:38:24.980850Z" modified="2024-10-11T18:38:24.980863Z" visited="2024-10-11T18:38:24.980852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:38:24.980855Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.var/app/org.telegram.desktop/data/TelegramDesktop/tdata/temp_data/-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20%20Sorasaki%20Hina%20%204%23%20%20-.rar" added="2024-10-11T18:39:42.704508Z" modified="2024-10-11T18:39:42.704512Z" visited="2024-10-11T18:39:42.704509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=start-osu --file-forwarding sh.ppy.osu @@ %F @@&apos;" modified="2024-10-11T18:39:42.704510Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/dz" added="2024-10-11T19:49:37.576789Z" modified="2024-10-11T19:49:37.606295Z" visited="2024-10-11T19:49:37.576790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-11T19:49:37.576795Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-11T19:49:37.606286Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-215639_hyprshot.png" added="2024-10-11T19:58:45.160234Z" modified="2024-10-11T19:58:45.160262Z" visited="2024-10-11T19:58:45.160242Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T19:58:45.160252Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-220410_hyprshot.png" added="2024-10-11T20:04:24.117126Z" modified="2024-10-11T20:04:24.117137Z" visited="2024-10-11T20:04:24.117127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T20:04:24.117131Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/2024-10-11-221348_hyprshot.png" added="2024-10-11T20:14:10.015584Z" modified="2024-10-11T20:14:23.106916Z" visited="2024-10-11T20:14:10.015585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.telegram.desktop" exec="&apos;gio open %u&apos;" modified="2024-10-11T20:14:23.078336Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-11T20:14:23.106913Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/blum-bot-master.zip" added="2024-10-11T20:25:35.239446Z" modified="2024-10-11T20:25:43.502247Z" visited="2024-10-11T20:25:35.239447Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T20:25:35.239448Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=ark --file-forwarding org.kde.ark @@u %U @@&apos;" modified="2024-10-11T20:25:43.502245Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/Untitled%20Folder/blum-bot-master/main.py" added="2024-10-11T20:26:40.595966Z" modified="2024-10-11T20:26:40.595973Z" visited="2024-10-11T20:26:40.595967Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T20:26:40.595969Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/Untitled%20Folder/blum-bot-master" added="2024-10-11T20:26:58.620703Z" modified="2024-10-11T20:30:40.090731Z" visited="2024-10-11T20:26:58.620704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-11T20:30:40.079240Z" count="3"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-11T20:30:40.090729Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/blum-bot-main.zip" added="2024-10-11T20:30:05.203883Z" modified="2024-10-11T20:30:12.580618Z" visited="2024-10-11T20:30:05.203884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T20:30:05.203886Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=ark --file-forwarding org.kde.ark @@u %U @@&apos;" modified="2024-10-11T20:30:12.580615Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/Untitled%20Folder/blum-bot-main" added="2024-10-11T20:30:53.167600Z" modified="2024-10-11T20:30:53.180995Z" visited="2024-10-11T20:30:53.167601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.visualstudio.code" exec="&apos;gio open %u&apos;" modified="2024-10-11T20:30:53.167603Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-10-11T20:30:53.180991Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/configs.zip" added="2024-10-11T21:10:55.034455Z" modified="2024-10-11T21:11:43.810923Z" visited="2024-10-11T21:10:55.034456Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T21:10:55.034460Z" count="1"/>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=ark --file-forwarding org.kde.ark @@u %U @@&apos;" modified="2024-10-11T21:11:05.064933Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=ark --file-forwarding org.kde.ark @@u %U @@&apos;" modified="2024-10-11T21:11:43.810919Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8" added="2024-10-11T21:11:56.000123Z" modified="2024-10-11T21:11:56.000128Z" visited="2024-10-11T21:11:56.000123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-10-11T21:11:56.000125Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/configs/ipvanish-PL-Warsaw-waw-c01.ovpn" added="2024-10-11T21:13:58.328294Z" modified="2024-10-11T21:15:52.556725Z" visited="2024-10-11T21:13:58.328296Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2024-10-11T21:13:58.328299Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T21:15:52.556712Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/hyprpaper.conf" added="2024-10-11T21:22:48.252019Z" modified="2024-10-11T22:32:31.666823Z" visited="2024-10-11T21:22:48.252019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T21:22:48.252022Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T22:32:31.666821Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/hyprlock.conf" added="2024-10-11T21:23:25.235966Z" modified="2024-10-11T21:23:25.235971Z" visited="2024-10-11T21:23:25.235967Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T21:23:25.235968Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/cfg/workspaces.conf" added="2024-10-11T21:27:41.598486Z" modified="2024-10-11T21:27:41.598490Z" visited="2024-10-11T21:27:41.598487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-11T21:27:41.598488Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/cfg/env.conf" added="2024-10-11T21:27:48.501801Z" modified="2024-10-11T21:27:48.501825Z" visited="2024-10-11T21:27:48.501803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-11T21:27:48.501810Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/cfg/windowsrule.conf" added="2024-10-11T22:33:18.101959Z" modified="2024-10-12T12:07:04.281412Z" visited="2024-10-11T22:33:18.101962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T12:07:04.281409Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/cfg/misc.conf" added="2024-10-11T22:56:45.072430Z" modified="2024-10-12T12:11:38.129873Z" visited="2024-10-11T22:56:45.072431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T12:11:38.129857Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/hypr/cfg/general.conf" added="2024-10-11T23:14:03.122703Z" modified="2024-10-12T12:13:02.979321Z" visited="2024-10-11T23:14:03.122704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T12:13:02.979311Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.cache/wal/colors.json" added="2024-10-11T23:23:14.338710Z" modified="2024-10-11T23:23:14.338716Z" visited="2024-10-11T23:23:14.338711Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2024-10-11T23:23:14.338712Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/layout" added="2024-10-11T23:51:47.504105Z" modified="2024-10-11T23:51:47.504127Z" visited="2024-10-11T23:51:47.504107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T23:51:47.504110Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/wlogout" added="2024-10-11T23:54:03.624630Z" modified="2024-10-11T23:54:03.624644Z" visited="2024-10-11T23:54:03.624633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-10-11T23:54:03.624637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/layout_2" added="2024-10-11T23:58:38.169414Z" modified="2024-10-11T23:58:38.169423Z" visited="2024-10-11T23:58:38.169415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T23:58:38.169419Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/style_2.css" added="2024-10-11T23:58:45.095090Z" modified="2024-10-11T23:58:45.095118Z" visited="2024-10-11T23:58:45.095094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-11T23:58:45.095106Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/lock-hover.png" added="2024-10-12T00:01:20.796251Z" modified="2024-10-12T00:01:20.796257Z" visited="2024-10-12T00:01:20.796252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:01:20.796254Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/lock.png" added="2024-10-12T00:01:24.998254Z" modified="2024-10-12T00:01:24.998267Z" visited="2024-10-12T00:01:24.998256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:01:24.998262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/logout-hover.png" added="2024-10-12T00:01:33.259107Z" modified="2024-10-12T00:01:33.259119Z" visited="2024-10-12T00:01:33.259108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:01:33.259114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/logout.png" added="2024-10-12T00:01:38.205465Z" modified="2024-10-12T00:01:38.205474Z" visited="2024-10-12T00:01:38.205466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:01:38.205469Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/logout1.png" added="2024-10-12T00:01:43.443266Z" modified="2024-10-12T00:01:43.443272Z" visited="2024-10-12T00:01:43.443266Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:01:43.443268Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/power-hover.png" added="2024-10-12T00:01:48.605498Z" modified="2024-10-12T00:01:48.605508Z" visited="2024-10-12T00:01:48.605499Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:01:48.605503Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/power.png" added="2024-10-12T00:01:53.695388Z" modified="2024-10-12T00:01:53.695401Z" visited="2024-10-12T00:01:53.695391Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:01:53.695395Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/restart-hover.png" added="2024-10-12T00:01:57.858537Z" modified="2024-10-12T00:01:57.858548Z" visited="2024-10-12T00:01:57.858539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:01:57.858544Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/restart.png" added="2024-10-12T00:02:10.747861Z" modified="2024-10-12T00:02:10.747875Z" visited="2024-10-12T00:02:10.747865Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:02:10.747869Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/sleep-hover.png" added="2024-10-12T00:02:16.060332Z" modified="2024-10-12T00:02:16.060341Z" visited="2024-10-12T00:02:16.060334Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:02:16.060336Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/sleep.png" added="2024-10-12T00:02:20.938004Z" modified="2024-10-12T00:02:20.938013Z" visited="2024-10-12T00:02:20.938005Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:02:20.938008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/wlogout/icons" added="2024-10-12T00:02:28.494641Z" modified="2024-10-12T00:02:28.494645Z" visited="2024-10-12T00:02:28.494642Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-10-12T00:02:28.494643Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/wlogout/layout" added="2024-10-12T00:03:21.639991Z" modified="2024-10-12T00:06:12.295870Z" visited="2024-10-12T00:03:21.639992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T00:06:12.295852Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/wlogout/style.css" added="2024-10-12T00:03:50.085568Z" modified="2024-10-12T00:11:31.387561Z" visited="2024-10-12T00:03:50.085571Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T00:11:31.387550Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/rounded-purple-dark.rasi" added="2024-10-12T00:27:21.794536Z" modified="2024-10-12T00:27:21.794546Z" visited="2024-10-12T00:27:21.794537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:27:21.794540Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/rounded-common.rasi" added="2024-10-12T00:29:27.639377Z" modified="2024-10-12T00:29:27.639389Z" visited="2024-10-12T00:29:27.639378Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T00:29:27.639385Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.local/share/rofi/themes/rounded-purple-dark.rasi" added="2024-10-12T00:31:39.522902Z" modified="2024-10-12T00:40:06.384390Z" visited="2024-10-12T00:31:39.522905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T00:40:06.384377Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.local/share/rofi/themes/rounded-common.rasi" added="2024-10-12T00:38:54.968163Z" modified="2024-10-12T00:38:54.968186Z" visited="2024-10-12T00:38:54.968165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T00:38:54.968172Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/colors-rofi-dark.rasi" added="2024-10-12T00:46:09.205524Z" modified="2024-10-12T01:18:28.470419Z" visited="2024-10-12T00:46:09.205525Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T01:18:28.470416Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.cache/wal/colors-rofi-dark.rasi" added="2024-10-12T00:53:08.158066Z" modified="2024-10-12T00:53:08.158091Z" visited="2024-10-12T00:53:08.158068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=code --file-forwarding com.visualstudio.code --reuse-window @@ %F @@&apos;" modified="2024-10-12T00:53:08.158076Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/config.rasi" added="2024-10-12T01:00:08.097802Z" modified="2024-10-12T01:06:48.456456Z" visited="2024-10-12T01:00:08.097802Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T01:06:48.456451Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/colors-rofi-light.rasi" added="2024-10-12T01:32:11.816256Z" modified="2024-10-12T01:32:11.816261Z" visited="2024-10-12T01:32:11.816256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T01:32:11.816258Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/konfig-s-malenkim-pricelom-dlya-ks-1_6.zip" added="2024-10-12T16:40:51.864796Z" modified="2024-10-12T16:40:51.864805Z" visited="2024-10-12T16:40:51.864798Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T16:40:51.864800Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/konfig-s-malenkim-pricelom-dlya-ks-1_6(1).zip" added="2024-10-12T16:41:07.745187Z" modified="2024-10-12T16:41:11.872966Z" visited="2024-10-12T16:41:07.745189Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-10-12T16:41:07.745193Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/flatpak run --branch=stable --arch=x86_64 --command=ark --file-forwarding org.kde.ark @@u %U @@&apos;" modified="2024-10-12T16:41:11.872957Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/dotsfilehypr" added="2024-10-12T16:55:50.299897Z" modified="2024-10-12T16:55:50.299908Z" visited="2024-10-12T16:55:50.299898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-10-12T16:55:50.299901Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kdrik/.config/dotsfilehypr/.congig" added="2024-10-12T16:56:53.759354Z" modified="2024-10-12T16:56:53.759366Z" visited="2024-10-12T16:56:53.759356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2024-10-12T16:56:53.759359Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

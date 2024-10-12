@@ -1,0 +1,75 @@
+window {
+    font-family: 'JetBrains Nerd Font', sans-serif;
+    font-size: 12pt;
+    color: #cdd6f4;
+    background-color: rgba(17, 17, 27, 0.7); /* Полупрозрачный фон окна */
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px); /* Эффект размытия фона */
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+    border: none;
+    color: #ced7f4;
+    text-shadow: none;
+    border-radius: 20px;
+    background-color: rgba(30, 30, 46, 0.5); /* Полупрозрачный фон кнопок */
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+button:hover {
+    background-color: rgba(49, 50, 68, 0.4); /* Полупрозрачный цвет при наведении */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    transform: translateY(-2px) scale(1.05);
+}
+
+button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(81, 174, 255, 0.5);
+}
+
+#lock {
+    background-image: url("~/.config/wlogout/icons/lock.png");
+    background-size: 70%;
+}
+#lock:focus {
+    background-image: url("~/.config/wlogout/icons/lock-hover.png");
+}
+
+#logout {
+    background-image: url("~/.config/wlogout/icons/logout.png");
+}
+#logout:focus {
+    background-image: url("~/.config/wlogout/icons/logout-hover.png");
+}
+
+#suspend {
+    background-image: url("~/.config/wlogout/icons/sleep.png");
+}
+#suspend:focus {
+    background-image: url("~/.config/wlogout/icons/sleep-hover.png");
+}
+
+#shutdown {
+    background-image: url("~/.config/wlogout/icons/power.png");
+}
+#shutdown:focus {
+    background-image: url("~/.config/wlogout/icons/power-hover.png");
+}
+
+#reboot {
+    background-image: url("~/.config/wlogout/icons/restart.png");
+}
+#reboot:focus {
+    background-image: url("~/.config/wlogout/icons/restart-hover.png");
+}

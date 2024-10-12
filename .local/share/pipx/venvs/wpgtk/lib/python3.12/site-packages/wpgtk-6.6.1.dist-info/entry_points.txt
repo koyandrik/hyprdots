@@ -1,0 +1,2 @@
+[console_scripts]
+wpg = wpgtk.__main__:main

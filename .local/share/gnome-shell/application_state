@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="nemo.desktop" score="2" last-seen="1728681139"/>
+    <application id="org.gnome.Extensions.desktop" score="21" last-seen="1728412544"/>
+    <application id="org.gnome.Nautilus.desktop" score="5" last-seen="1728681135"/>
+    <application id="org.gnome.Settings.desktop" score="25" last-seen="1728681278"/>
+    <application id="firefox.desktop" score="126" last-seen="1728681279"/>
+    <application id="org.kde.ark.desktop" score="0" last-seen="1728681108"/>
+    <application id="kitty.desktop" score="3" last-seen="1728681280"/>
+    <application id="org.gnome.Console.desktop" score="1" last-seen="1728681269"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="4" last-seen="1728412671"/>
+  </context>
+</application-state>
