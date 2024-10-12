@@ -42,8 +42,8 @@ Therefore, I will continue to develop this topic further.
 <div align="center">
 <table>
         <tr>
-            <td><img src="Assets/1.jpg"></td>
-            <td><img src="Assets/2.jpg"></td>
+            <td><img src="Assets/1.png"></td>
+            <td><img src="Assets/2.png"></td>
         </tr>
     </table>
 </div>
