@@ -1,4 +1,4 @@
-# hyprdots
+# hyprdots install
 
 Enter this
 
@@ -6,15 +6,37 @@ Enter this
 git clone https://github.com/koyandrik/hyprdots.git
 cd hyprdots
 ./run.sh
+```
 
-# my mini-Site
+# question/answer
+
+weather settings be on the way
+
+custom/weather
+
+```
+cd ~/.config/waybar/config
+
+```
+
+
+
+# my mini-site
 
 coming soon..
 
+
+
+
 ## hello?
+
 
 Hello, I'm new to Highland, but even so I would like to share my experience. 
 I'm just starting to set up my environment and explore all the possibilities.
 
 I'm currently trying to figure out the configuration
 Therefore, I will continue to develop this topic further.
+
+
+# Screenshot
+
