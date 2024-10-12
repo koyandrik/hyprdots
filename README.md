@@ -39,7 +39,6 @@ Therefore, I will continue to develop this topic further.
 
 
 # Screenshot
-
 <div align="center">
 <table>
         <tr>
