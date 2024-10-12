@@ -11,7 +11,7 @@ cd hyprdots
 
 coming soon..
 
-# hello?
+## hello?
 
 Hello, I'm new to Highland, but even so I would like to share my experience. 
 I'm just starting to set up my environment and explore all the possibilities.
