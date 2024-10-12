@@ -23,7 +23,15 @@ cd ~/.config/waybar/config
 
 # my mini-site
 
-coming soon..
+coming soon.. (I don't know how to host flask)
+<div align="center">
+<table>
+        <tr>
+            <td><img src="Assets/3.png"></td>
+            <td><img src="Assets/4.png"></td>
+        </tr>
+    </table>
+</div>
 
 
 
