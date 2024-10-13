@@ -6,6 +6,7 @@ cp -r .bash_profile ~/
 cp -r .local ~/
 cp -r .config ~/
 cp -r wallpapers ~/
+wal -i ~/wallpapers/1.jpg
 clear
 sleep 2
 echo "Welcome to my Hypr Setup"
