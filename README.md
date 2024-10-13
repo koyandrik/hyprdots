@@ -39,7 +39,7 @@ coming soon.. (I don't know how to host flask)
 ## hello?
 
 
-Hello, I'm new to Highland, but even so I would like to share my experience. 
+Hello, I'm new to Hyprland, but even so I would like to share my experience. 
 I'm just starting to set up my environment and explore all the possibilities.
 
 I'm currently trying to figure out the configuration
