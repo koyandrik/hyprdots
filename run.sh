@@ -1,4 +1,4 @@
-yay -S brightnessctl pipewire nautilus gnome-keyring qt5ct qt6ct xdg-desktop-portal-hyprland rofi cliphist grim cava playerctl python python-pywal ttf-font-awesome fastfetch ttf-jetbrains-mono-nerd bluez bluez-utils blueman waybar hyprpaper firefox
+yay -S brightnessctl pipewire nautilus gnome-keyring qt5ct qt6ct xdg-desktop-portal-hyprland rofi cliphist grim cava playerctl python ttf-font-awesome fastfetch ttf-jetbrains-mono-nerd bluez bluez-utils blueman waybar hyprpaper firefox
 sudo pacman -S python-pywal
 cp -r .bashrc ~/
 cp -r .bash_logout ~/
