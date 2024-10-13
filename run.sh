@@ -4,6 +4,7 @@ cp -r .bash_logout ~/
 cp -r .bash_profile ~/
 cp -r .local ~/
 cp -r .config ~/
+cp -r wallpapers ~/
 clear
 sleep 2
 echo "Welcome to my Hypr Setup"
