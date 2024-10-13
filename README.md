@@ -15,11 +15,15 @@ weather settings be on the way
 custom/weather
 
 ```
-cd ~/.config/waybar/config
+~/.config/waybar/config
 
 ```
+how to add wallpapers
 
-
+Move your photo.jpg 
+```
+~/wallpapers
+```
 
 # my mini-site
 
