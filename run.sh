@@ -3,7 +3,7 @@ cd yay
 makepkg -si
 cd 
 cd hyprdots
-yay -S brightnessctl pywal wlogout pipewire pavucontrol nautilus gnome-keyring qt5ct qt6ct xdg-desktop-portal-hyprland libnotify rofi cliphist grim cava playerctl python ttf-font-awesome fastfetch ttf-jetbrains-mono-nerd bluez bluez-utils blueman waybar hyprpaper firefox
+yay -S brightnessctl wpgtk pywal wlogout pipewire pavucontrol nautilus gnome-keyring qt5ct qt6ct xdg-desktop-portal-hyprland libnotify rofi cliphist grim cava playerctl python ttf-font-awesome fastfetch ttf-jetbrains-mono-nerd bluez bluez-utils blueman waybar hyprpaper firefox
 cp -r .bashrc ~/
 cp -r .bash_logout ~/
 cp -r .bash_profile ~/
