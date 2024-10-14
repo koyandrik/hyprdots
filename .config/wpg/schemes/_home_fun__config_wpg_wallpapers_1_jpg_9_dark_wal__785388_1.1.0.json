@@ -1,0 +1,28 @@
+{
+    "checksum": "81d7714f7ac590238e9c3a41d45ede3b",
+    "wallpaper": "/home/fun/.config/wpg/wallpapers/1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a1c",
+        "foreground": "#c1c1c6",
+        "cursor": "#c1c1c6"
+    },
+    "colors": {
+        "color0": "#0a0a1c",
+        "color1": "#2F52C3",
+        "color2": "#5B63D7",
+        "color3": "#8C78EA",
+        "color4": "#3A98EC",
+        "color5": "#6992EA",
+        "color6": "#989AF0",
+        "color7": "#c1c1c6",
+        "color8": "#5a5a6f",
+        "color9": "#2F52C3",
+        "color10": "#5B63D7",
+        "color11": "#8C78EA",
+        "color12": "#3A98EC",
+        "color13": "#6992EA",
+        "color14": "#989AF0",
+        "color15": "#c1c1c6"
+    }
+}
