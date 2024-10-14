@@ -16,5 +16,8 @@ sleep 2
 echo "Welcome to my Hypr Setup"
 sleep 1
 chmod +x re-name.sh
+/usr/lib/xdg-desktop-portal -rv
+clear
 ./re-name.sh
+sleep 1
 echo "Enter:  win+m"
