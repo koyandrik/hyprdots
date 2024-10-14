@@ -1,3 +1,8 @@
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+cd 
+cd hyprdots
 yay -S brightnessctl pipewire nautilus gnome-keyring qt5ct qt6ct xdg-desktop-portal-hyprland rofi cliphist grim cava playerctl python ttf-font-awesome fastfetch ttf-jetbrains-mono-nerd bluez bluez-utils blueman waybar hyprpaper firefox
 sudo pacman -S python-pywal
 cp -r .bashrc ~/
