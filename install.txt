@@ -1,4 +1,0 @@
-for Yay
-
-install : yay -S brightnessctl pipewire nautilus qt5ct qt6ct xdg-desktop-portal-hyprland rofi cliphist grim cava playerctl python python-pywal ttf-jetbrains-mono-nerd bluez bluez-utils blueman
-
