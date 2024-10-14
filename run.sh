@@ -17,5 +17,6 @@ clear
 sleep 2
 echo "Welcome to my Hypr Setup"
 sleep 1
+chmod +x re-name.sh
 ./re-name.sh
 echo "Enter:  win+m"
