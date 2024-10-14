@@ -17,6 +17,9 @@ echo "Welcome to my Hypr Setup"
 sleep 1
 chmod +x re-name.sh
 /usr/lib/xdg-desktop-portal -rv
+chmod +x .local/share/bin/volumecontrol.sh
+chmod +x .local/share/bin/brightnesscontrol.sh
+chmod +x .local/share/bin/globalcontrol.sh
 clear
 ./re-name.sh
 sleep 1
