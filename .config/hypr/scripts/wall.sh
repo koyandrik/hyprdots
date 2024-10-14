@@ -2,7 +2,7 @@
 
 hyprctl hyprpaper unload all
 
-wallpapers=($(ls -d /home/kdrik/wallpapers/*.jpg  2>/dev/null))
+wallpapers=($(ls -d ~/wallpapers/*.jpg  2>/dev/null))
 
 
 wall=${wallpapers[$RANDOM % ${#wallpapers[@]}]}
