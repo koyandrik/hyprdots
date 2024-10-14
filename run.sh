@@ -20,6 +20,7 @@ chmod +x re-name.sh
 chmod +x .local/share/bin/volumecontrol.sh
 chmod +x .local/share/bin/brightnesscontrol.sh
 chmod +x .local/share/bin/globalcontrol.sh
+sudo systemctl start bluetooth
 clear
 ./re-name.sh
 sleep 1
