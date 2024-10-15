@@ -10,8 +10,10 @@
     "reload_style_on_change": true,
     "modules-left": ["custom/wall","hyprland/workspaces", "custom/weather"],
     "modules-center": ["custom/spotify"],
-    "modules-right": ["tray", "backlight", "pulseaudio", "network", "battery", "clock"],
+    "modules-right": ["tray", "backlight", "pulseaudio", "bluetooth" , "network", "battery", "clock"],
     "hyprland/workspaces": {
+      "active-only": false,
+      "all-outputs": true,
       "format": "{icon}",
       "on-click": "activate",
       "format-icons": {
@@ -47,12 +49,13 @@
     },
 
     "network": {
-        "format-wifi": " {signalStrength} %",
+        "format-wifi": "  {signalStrength} %",
         "format-ethernet": " wired",
         "format-disconnected": "",
         "on-click": "bash ~/.config/waybar/scripts/rofi-wifi-menu.sh",
         "format-disconnected": "Disconnected  "
     },
+
 
     "pulseaudio": {
         "format": "{icon} {volume}%",
@@ -71,7 +74,7 @@
 
     "bluetooth": {
         "on-click": "~/.config/waybar/scripts/rofi-bluetooth &",
-        "format": "{status}"
+        "format": " {status}"
     },
 
     "battery": {
