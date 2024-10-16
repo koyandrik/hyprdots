@@ -3,10 +3,8 @@ cd yay
 makepkg -si
 cd 
 cd hyprdots
-yay -S brightnessctl hyprshot nwg-look pamixer nwg-look hyprlock wpgtk pywal wlogout pavucontrol nautilus gnome-keyring xdg-desktop-portal-hyprland xdg-desktop-portal-gtk libnotify
-ysy -S rofi cliphist grim cava playerctl python ttf-font-awesome fastfetch ttf-jetbrains-mono-nerd bluez bluez-utils blueman waybar hyprpaper firefox
+yay -S brightnessctl hyprshot nwg-look pamixer nwg-look hyprlock wpgtk pywal wlogout pavucontrol nautilus gnome-keyring xdg-desktop-portal-hyprland xdg-desktop-portal-gtk libnotify rofi cliphist grim cava playerctl python ttf-font-awesome fastfetch ttf-jetbrains-mono-nerd bluez bluez-utils blueman waybar hyprpaper firefox
 cp -r .bashrc ~/
-cp -r .bash_profile ~/
 cp -r .local ~/
 cp -r .config ~/
 cp -r wallpapers ~/
