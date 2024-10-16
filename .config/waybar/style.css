@@ -4,29 +4,24 @@
 
 * {
   font-family: JetBrainsMono Nerd Font;
-  font-size: 15px;
+  font-size: 13px;
 }
 
 window#waybar {
-  border-bottom: 0px solid #ffffff;
+  border-bottom: 0px solid;
   background: transparent;
-  transition-property: none;
-  transition-duration: 0s;
 }
 
 #workspaces button {
-  padding: 0 5px;
-  color: @color4;
-  box-shadow: inset 0 -3px transparent;
+  padding: 0 7px;
+  color: #000000;
 }
 
-#workspaces button.focused,
 #workspaces button.active {
   color: #000000;
 }
 
 #workspaces button.urgent {
-  background-color: #ffffff;
   color: #000000;
 }
 
@@ -34,7 +29,7 @@ window#waybar {
 #workspaces {
   margin: 0 4px;
   border-radius: 50px;
-  background-color: @color4;
+  background: linear-gradient(180deg, @color7, @color3 80%);
   border: 2px solid #000000;
 }
 
@@ -44,9 +39,10 @@ window#waybar {
 #backlight,
 #network,
 #pulseaudio,
-#custom-media,
 #tray,
 #custom-wall,
+#custom-power,
+#custom-gamemode,
 #mode,
 #idle_inhibitor,
 #mpd,
@@ -67,13 +63,13 @@ window#waybar {
   padding: 0 10px;
   color: #000000;
   border-radius: 50px;
-  background-color: @color4;
+  background: linear-gradient(180deg, @color7, @color3 80%);
   border: 1.5px solid #000000;
 }
 
 #clock {
   color: #000000;
-  background-color: @color4;
+  background: linear-gradient(180deg, @color7, @color3 80%);
   border-radius: 25px;
   padding: 5px 10px;
 }
@@ -81,13 +77,13 @@ window#waybar {
 #pulseaudio,
 #bluetooth,
 #network,
-#custom-media,
 #custom-wall,
 #custom-spotify,
 #mpd {
   color: #000000;
   border: 2px solid #000000;
   border-radius: 50px;
+  background: linear-gradient(180deg, @color7, @color3 80%);
 }
 
 #battery.critical:not(.charging) {
@@ -106,28 +102,14 @@ label:focus {
   background-color: transparent;
 }
 
-#custom-media.custom-spotify,
-#custom-media.custom-vlc {
-  background: rgb(172,172,172);
-  background: linear-gradient(180deg, rgba(110,110,110,1) 0%, rgba(1,1,66,1) 72%);
-  margin: 2px 0 0 5px;
-  background-size: 400% 400%;
-  animation: gradient 10s ease infinite;
-  text-shadow: 0px 0px 5px #000000;
-  font-weight: bold;
-  color: #444444;
-  transition: all 0.3s cubic-bezier(0.55, -0.68, 0.48, 1.682);
-  border: none;
-}
 
 #custom-spotify {
-  background: linear-gradient(180deg, @color3 72%);
+  background: linear-gradient(180deg, @color7, @color3 80%);
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
-  border: none;
-  color: #ffffff;
-  text-shadow: 0px 0px 5px #000000;
+  text-shadow: 0px 0px 8px #000000;
 }
+
 
 @keyframes gradient {
   0% { background-position: 0% 50%; }
@@ -149,19 +131,4 @@ label:focus {
   background-color: transparent;
 }
 
-#keyboard-state {
-  background: transparent;
-  color: #000000;
-  padding: 0 0px;
-  margin: 0 5px;
-}
 
-#keyboard-state > label.locked {
-  background: transparent;
-}
-
-#custom-wall {
-  background: transparent;
-  background-color: @color4;
-  border-radius: 25px;
-}

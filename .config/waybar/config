@@ -8,23 +8,30 @@
     "margin-right": 10,
     "spacing": 5, 
     "reload_style_on_change": true,
-    "modules-left": ["custom/wall","hyprland/workspaces", "custom/weather"],
+
+    "modules-left": ["custom/wall","hyprland/workspaces","custom/gamemode", "custom/weather"],
     "modules-center": ["custom/spotify"],
-    "modules-right": ["tray", "backlight", "pulseaudio", "bluetooth" , "network", "battery", "clock"],
+    "modules-right": ["tray", "backlight", "network", "bluetooth" ,  "pulseaudio", "battery", "clock" , "custom/power"],
+
     "hyprland/workspaces": {
       "active-only": false,
       "all-outputs": true,
       "format": "{icon}",
       "on-click": "activate",
       "format-icons": {
-        "1": "",
-        "2": "",
-        "3": "",
-        "4": "",
-        "5": "",
-        "urgent": "",
-        "active": "",
-        "default": ""
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4",
+        "5": "5",
+        "6": "6",
+        "7": "7",
+        "8": "8",
+        "9": "9",
+        "10": "10",
+        "urgent": "",
+        "active": ""
+
       }
     },
     "hyprland/window": {
@@ -53,7 +60,6 @@
         "format-ethernet": " wired",
         "format-disconnected": "",
         "on-click": "bash ~/.config/waybar/scripts/rofi-wifi-menu.sh",
-        "format-disconnected": "Disconnected  "
     },
 
 
@@ -118,5 +124,18 @@
     "custom/wall": {
         "format": " <span color='#000000'> </span>",
         "on-click": "bash ~/.config/hypr/scripts/wall.sh"
+    },
+
+    "custom/gamemode" : {
+        "format":" <span color='#000000'>  </span>",
+        "on-click":"bash ~/.local/share/bin/gamemode.sh"
+    },
+    
+    "custom/power": {
+        "format": "",
+        "exec": "echo ; echo  logout",
+        "on-click": "~/.config/hypr/scripts/wlog.sh",
+        "interval" : 86400, 
+        "tooltip": true
     }
 }
