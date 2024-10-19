@@ -29,8 +29,8 @@ window#waybar {
 #workspaces {
   margin: 0 4px;
   border-radius: 50px;
-  background: linear-gradient(180deg, @color7, @color3 80%);
-  border: 2px solid #000000;
+  background: linear-gradient(180deg, @color8, @color3 80%);
+  border: 2px solid #000000
 }
 
 #clock,
@@ -63,15 +63,15 @@ window#waybar {
   padding: 0 10px;
   color: #000000;
   border-radius: 50px;
-  background: linear-gradient(180deg, @color7, @color3 80%);
-  border: 1.5px solid #000000;
+  background: linear-gradient(180deg, @color8, @color3 80%);
+  border: 1.5px solid #000000
 }
 
 #clock {
   color: #000000;
-  background: linear-gradient(180deg, @color7, @color3 80%);
+  background: linear-gradient(180deg, @color8, @color3 80%);
   border-radius: 25px;
-  padding: 5px 10px;
+  padding: 5px 10px
 }
 
 #pulseaudio,
@@ -83,7 +83,7 @@ window#waybar {
   color: #000000;
   border: 2px solid #000000;
   border-radius: 50px;
-  background: linear-gradient(180deg, @color7, @color3 80%);
+  background: linear-gradient(180deg, @color8, @color3 80%)
 }
 
 #battery.critical:not(.charging) {
@@ -107,7 +107,7 @@ label:focus {
   background: linear-gradient(180deg, @color7, @color3 80%);
   background-size: 400% 400%;
   animation: gradient 10s ease infinite;
-  text-shadow: 0px 0px 8px #000000;
+  text-shadow: 0px 0px 8px #000000
 }
 
 
