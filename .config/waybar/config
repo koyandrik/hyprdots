@@ -1,57 +1,68 @@
 {
-  
     "height": 10,
-    "layer": "top", 
+    "layer": "top",
     "margin-top": 6,
     "margin-left": 10,
     "margin-bottom": 0,
     "margin-right": 10,
-    "spacing": 5, 
+    "spacing": 5,
     "reload_style_on_change": true,
 
-    "modules-left": ["custom/wall","hyprland/workspaces","custom/gamemode", "custom/weather"],
-    "modules-center": ["custom/spotify"],
-    "modules-right": ["tray", "backlight", "network", "bluetooth" ,  "pulseaudio", "battery", "clock" , "custom/power"],
+    "modules-left": [
+        "custom/wall",
+        "hyprland/workspaces",
+        "custom/gamemode",
+        "tray"
+    ],
+    
+    "modules-center": [
+        "custom/spotify"
+    ],
+    
+    "modules-right": [
+        "network",
+        "bluetooth",
+        "pulseaudio",
+        "battery",
+        "backlight",
+        "clock",
+        "custom/power"
+    ],
 
     "hyprland/workspaces": {
-      "active-only": false,
-      "all-outputs": true,
-      "format": "{icon}",
-      "on-click": "activate",
-      "format-icons": {
-        "1": "1",
-        "2": "2",
-        "3": "3",
-        "4": "4",
-        "5": "5",
-        "6": "6",
-        "7": "7",
-        "8": "8",
-        "9": "9",
-        "10": "10",
-        "urgent": "",
-        "active": ""
-
-      }
+        "active-only": false,
+        "all-outputs": true,
+        "disable-scroll": false,
+        "format": "{icon}",
+        "on-click": "activate",
+        "format-icons": {
+            "urgent": "",
+            "active": "",
+            "default": "󰧞"
+        }
     },
+    
     "hyprland/window": {
         "format": "{}"
     },
+    
     "tray": {
         "spacing": 10
     },
+    
     "clock": {
-        "format": "<span color='#000000'> </span>{:%I:%M:%S %p}",
-        "format-alt": "<span color='#000000'> </span>{:%a %b %d}",
+        "format": " {:%I:%M:%S %p}",
+        "format-alt": " {:%a %b %d}",
         "tooltip-format": "<big>{:%B %Y}</big>\n<tt><small>{calendar}</small></tt>",
-        "interval" : 1
+        "interval": 1
     },
-
 
     "backlight": {
         "device": "DP-1",
         "format": "{icon} {percent}%",
-        "format-icons": ["", "", "", "", "", "", "", "", ""],
+        "format-icons": [
+            "", "", "", "", "", "", "", "", ""
+        ],
         "on-click": ""
     },
 
@@ -59,9 +70,8 @@
         "format-wifi": "  {signalStrength} %",
         "format-ethernet": " wired",
         "format-disconnected": "",
-        "on-click": "bash ~/.config/waybar/scripts/rofi-wifi-menu.sh",
+        "on-click": "bash ~/.config/waybar/scripts/rofi-wifi-menu.sh"
     },
-
 
     "pulseaudio": {
         "format": "{icon} {volume}%",
@@ -73,7 +83,9 @@
             "headset": "",
             "phone": "",
             "portable": "",
-            "default": ["", "", ""]
+            "default": [
+                "", "", ""
+            ]
         },
         "on-click": "pavucontrol"
     },
@@ -84,58 +96,49 @@
     },
 
     "battery": {
-      "bat": "BAT0",
-      "adapter": "ADP0",
-      "interval": 60,
-      "states": {
-          "warning": 30,
-          "critical": 15
-      },
-      "max-length": 20,
-      "format": "{icon}   {capacity}%",
-      "format-warning": "{icon} {capacity}%",
-      "format-critical": "{icon} {capacity}%",
-      "format-charging": "<span font-family='Font Awesome 6 Free'></span> {capacity}%",
-      "format-plugged": " {capacity}%",
-      "format-alt": "{icon} {time}",
-      "format-full": " {capacity}%",
-      "format-icons": [" ", " ", " ", " ", " "]
+        "bat": "BAT0",
+        "adapter": "ADP0",
+        "interval": 60,
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "max-length": 20,
+        "format": "{icon}   {capacity}%",
+        "format-warning": "{icon} {capacity}%",
+        "format-critical": "{icon} {capacity}%",
+        "format-charging": "<span font-family='Font Awesome 6 Free'></span> {capacity}%",
+        "format-plugged": " {capacity}%",
+        "format-alt": "{icon} {time}",
+        "format-full": " {capacity}%",
+        "format-icons": [
+            " ", " ", " ", " ", " "
+        ]
     },
 
-
-"custom/weather": {
-    "exec": "/home/kdrik/myenv/bin/python ~/.config/waybar/scripts/weather.py",
-    "restart-interval": 300,
-    "return-type": "json",
-    "on-click": "xdg-open https://weather.com/en-IN/weather/today/l/27b1fe76a58c2df8f5b7202d26fb56e79df7d85e5150cb5c71c0c7ba33f8df3f"
-},
-
-
-   "custom/spotify": {
-    "exec":"/home/kdrik/myenv/bin/python ~/.config/waybar/scripts/mediaplayer.py --player spotify",
-    "format": "{}  ",
-    "return-type": "json",
-    "on-click": "playerctl play-pause",
-    "on-double-click-right": "playerctl next",
-    "on-scroll-down": "playerctl previous"
+    "custom/spotify": {
+        "exec": "~/myenv/bin/python ~/.config/waybar/scripts/mediaplayer.py --player spotify",
+        "format": "{}  ",
+        "return-type": "json",
+        "on-click": "playerctl previous",
+        "on-.click-right": "playerctl next"
     },
-
 
     "custom/wall": {
         "format": " <span color='#000000'> </span>",
         "on-click": "bash ~/.config/hypr/scripts/wall.sh"
     },
 
-    "custom/gamemode" : {
-        "format":" <span color='#000000'>  </span>",
-        "on-click":"bash ~/.local/share/bin/gamemode.sh"
+    "custom/gamemode": {
+        "format": " <span color='#000000'>  </span>",
+        "on-click": "bash ~/.local/share/bin/gamemode.sh"
     },
-    
+
     "custom/power": {
         "format": "",
         "exec": "echo ; echo  logout",
         "on-click": "~/.config/hypr/scripts/wlog.sh",
-        "interval" : 86400, 
+        "interval": 86400,
         "tooltip": true
     }
 }
