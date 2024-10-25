@@ -1,25 +1,30 @@
-#!/bin/env zsh
+#!/bin/zsh
 
-hyprctl hyprpaper unload all
+setopt extended_glob
 
-wallpapers=($(ls -d ~/wallpapers/*.jpg  2>/dev/null))
+wallpapers=("$HOME/wallpapers"/*.(jpg|gif|png)(N))
+[[ -z $wallpapers ]] && exit 1
 
+index_file="$HOME/.config/hypr/last_wallpaper_index"
 
-wall=${wallpapers[$RANDOM % ${#wallpapers[@]}]}
+if [[ ! -f $index_file ]]; then
+  echo 0 > "$index_file"
+fi
 
-hyprctl hyprpaper preload "$wall"
-hyprctl hyprpaper wallpaper ,"$wall"
+index=$(<"$index_file")
+wall=${wallpapers[index % ${#wallpapers[@]}]}
+echo $(( (index + 1) % ${#wallpapers[@]} )) > "$index_file"
 
+swww img "$wall" --transition-type left --transition-duration 1 --transition-fps 30
 
-source ~/myenv/bin/activate
+[[ -f ~/myenv/bin/activate ]] && source ~/myenv/bin/activate
 
-wpg -ns "$wall"
+wpg -ns "$wall" 2>/dev/null
+wal -R 2>/dev/null
 
-wal -R
+if [[ -f ~/.cache/wal/colors ]]; then
+  active_border_color=$(sed -n '1p' ~/.cache/wal/colors)
+  sed -i "s/col.active_border = .*/col.active_border = 0xff${active_border_color:5}/" ~/.config/hypr/cfg/general.conf
+fi
 
-active_border_color=$(sed -n '1p' ~/.cache/wal/colors)
-sed -i "s/col.active_border = .*/col.active_border = 0xff${active_border_color:5}/" ~/.config/hypr/cfg/general.conf
-
-hyprctl reload
-
-sleep 2
+sleep 1
