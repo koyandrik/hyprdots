@@ -1,0 +1,28 @@
+{
+    "checksum": "1334ebfb17b8f3825017a586472bfe94",
+    "wallpaper": "/home/kdrik/wallpapers/02.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#656056",
+        "color2": "#995E6B",
+        "color3": "#C5697D",
+        "color4": "#968778",
+        "color5": "#BB7082",
+        "color6": "#D1768B",
+        "color7": "#bfbfbf",
+        "color8": "#615050",
+        "color9": "#656056",
+        "color10": "#995E6B",
+        "color11": "#C5697D",
+        "color12": "#968778",
+        "color13": "#BB7082",
+        "color14": "#D1768B",
+        "color15": "#bfbfbf"
+    }
+}

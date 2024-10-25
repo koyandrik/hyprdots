@@ -1,0 +1,28 @@
+{
+    "checksum": "0fedaed0f5da0c8e593432eb01f7c25a",
+    "wallpaper": "/home/kdrik/wallpapers/steamuserimages-a.akamaihd.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0C17",
+        "foreground": "#c2c2c5",
+        "cursor": "#c2c2c5"
+    },
+    "colors": {
+        "color0": "#0E0C17",
+        "color1": "#575065",
+        "color2": "#80747E",
+        "color3": "#77738B",
+        "color4": "#827D96",
+        "color5": "#948FAD",
+        "color6": "#AFA9CA",
+        "color7": "#c2c2c5",
+        "color8": "#5d5a6e",
+        "color9": "#575065",
+        "color10": "#80747E",
+        "color11": "#77738B",
+        "color12": "#827D96",
+        "color13": "#948FAD",
+        "color14": "#AFA9CA",
+        "color15": "#c2c2c5"
+    }
+}

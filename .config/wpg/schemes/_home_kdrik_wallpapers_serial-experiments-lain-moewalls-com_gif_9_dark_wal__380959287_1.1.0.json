@@ -1,0 +1,28 @@
+{
+    "checksum": "cfd90eaf106c4d18509b2f0f1bf64685",
+    "wallpaper": "/home/kdrik/wallpapers/serial-experiments-lain-moewalls-com.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0910",
+        "foreground": "#c2c1c3",
+        "cursor": "#c2c1c3"
+    },
+    "colors": {
+        "color0": "#0b0910",
+        "color1": "#4F8779",
+        "color2": "#2D5890",
+        "color3": "#69608A",
+        "color4": "#873E85",
+        "color5": "#8A7198",
+        "color6": "#3E90A7",
+        "color7": "#c2c1c3",
+        "color8": "#5c576a",
+        "color9": "#4F8779",
+        "color10": "#2D5890",
+        "color11": "#69608A",
+        "color12": "#873E85",
+        "color13": "#8A7198",
+        "color14": "#3E90A7",
+        "color15": "#c2c1c3"
+    }
+}

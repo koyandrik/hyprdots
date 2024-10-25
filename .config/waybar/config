@@ -121,12 +121,12 @@
         "format": "{}  ",
         "return-type": "json",
         "on-click": "playerctl previous",
-        "on-.click-right": "playerctl next"
+        "on-click-right": "playerctl next"
     },
 
     "custom/wall": {
         "format": " <span color='#000000'> </span>",
-        "on-click": "bash ~/.config/hypr/scripts/wall.sh"
+        "on-click": "zsh ~/.config/hypr/scripts/wall.sh"
     },
 
     "custom/gamemode": {

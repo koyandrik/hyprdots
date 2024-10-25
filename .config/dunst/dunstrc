@@ -1,86 +1,56 @@
+
 [global]
-    ### Display ###
-    monitor = 0
-    follow = mouse
+follow = mouse
+indicate_hidden = yes
+offset = 10x10
+notification_height = 0
 
-    ### Geometry ###
-    width = 400           # Увеличен размер ширины
-    height = 220          # Увеличен размер высоты
-    origin = bottom-right
-    offset = 15x15
-    scale = 0
-    notification_limit = 20
+separator_height = 2
 
-    ### Progress bar ###
-    progress_bar = true
-    progress_bar_height = 10  # Увеличена высота прогресс-бара
-    progress_bar_frame_width = 0
-    progress_bar_min_width = 100
-    progress_bar_max_width = 250  # Увеличена максимальная ширина прогресс-бара
-    progress_bar_corner_radius = 5  # Увеличен радиус скругления прогресс-бара
-    icon_corner_radius = 10  # Увеличен радиус скругления иконок
+padding = 8
+horizontal_padding = 8
+text_icon_padding = 0
+frame_width = 2
 
-    ### Appearance ###
-    transparency = 20
-    separator_height = 1
-    padding = 8           # Увеличен общий отступ
-    horizontal_padding = 8 # Увеличен горизонтальный отступ
-    text_icon_padding = 10 # Увеличен отступ между текстом и иконкой
-    frame_width = 4
-    gap_size = 4
-    separator_color = auto
+frame_color = "#f5c2e7"
+separator_color = frame
 
-    ### Text ###
-    font = mononoki Nerd Font 8  # Увеличен размер шрифта
-    line_height = 2
-    markup = full
-    format = "%s\n%b"
-    alignment = left
-    vertical_alignment = center
-    show_age_threshold = 60
-    ellipsize = middle
-    ignore_newline = no
-    stack_duplicates = true
-    hide_duplicate_count = false
-    show_indicators = yes
+sort = yes
+idle_threshold = 120
+font = monospace 10
+line_height = 0
+markup = full
+alignment = left
+vertical_alignment = center
+show_age_threshold = 60
+word_wrap = yes
+stack_duplicates = true
+hide_duplicate_count = false
 
-    ### Icons ###
-    icon_position = left
-    min_icon_size = 30   # Увеличен минимальный размер иконки
-    max_icon_size = 80   # Увеличен максимальный размер иконки
-    icon_theme = "Tela-circle-dracula"
-    icon_path = $HOME/.icons/Tela-circle-dracula/16/actions:$HOME/.icons/Tela-circle-dracula/16/apps:$HOME/.icons/Tela-circle-dracula/16/devices:$HOME/.icons/Tela-circle-dracula/16/mimetypes:$HOME/.icons/Tela-circle-dracula/16/panel:$HOME/.icons/Tela-circle-dracula/16/places:$HOME/.icons/Tela-circle-dracula/16/status
+show_indicators = yes
 
-    ### History ###
-    sticky_history = yes
-    history_length = 20
+min_icon_size = 0
+max_icon_size = 64
 
-    ### Misc/Advanced ###
-    dmenu = /usr/bin/rofi -config "$HOME/.config/rofi/notification.rasi" -dmenu -p dunst:
-    browser = /usr/bin/xdg-open
-    always_run_script = true
-    title = Dunst
-    class = Dunst
-    corner_radius = 25  # Увеличен радиус углов
-    ignore_dbusclose = false
+icon_path = /usr/share/icons/Papirus-Dark/16x16/status/:/usr/share/icons/Papirus-Dark/16x16/devices/:/usr/share/icons/Papirus-Dark/16x16/actions/:/usr/share/icons/Papirus-Dark/16x16/animations/:/usr/share/icons/Papirus-Dark/16x16/apps/:/usr/share/icons/Papirus-Dark/16x16/categories/:/usr/share/icons/Papirus-Dark/16x16/emblems/:/usr/share/icons/Papirus-Dark/16x16/emotes/:/usr/share/icons/Papirus-Dark/16x16/devices/mimetypes:/usr/share/icons/Papirus-Dark/16x16/panel/:/usr/share/icons/Papirus-Dark/16x16/places/
 
+dmenu = /usr/bin/wofi -p dunst:
+browser = /usr/bin/firefox --new-tab
+
+title = Dunst
+class = Dunst
+
+corner_radius = 10
+timeout = 5
 [urgency_low]
-    background = "#4D4D4D80"
-    foreground = "#F0F0F0E6"
-    frame_color = "#4D4D4D03"
-    icon = "$HOME/.config/dunst/icons/hyprdots.svg"
-    timeout = 5
+background = "#1E1E2E"
+foreground = "#CDD6F4"
 
 [urgency_normal]
-    background = "#3A3A3A80"
-    foreground = "#DDDDDDE6"
-    frame_color = "#3A3A3A03"
-    icon = "$HOME/.config/dunst/icons/hyprdots.svg"
-    timeout = 5
+background = "#1E1E2E"
+foreground = "#CDD6F4"
 
 [urgency_critical]
-    background = "#f5e0dc"
-    foreground = "#1e1e2e"
-    frame_color = "#f38ba8"
-    icon = "$HOME/.config/dunst/icons/critical.svg"
-    timeout = 0
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+frame_color = "#FAB387"
