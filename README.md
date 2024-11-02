@@ -8,17 +8,7 @@ cd hyprdots
 ./run.sh
 ```
 
-# question/answer
-
-weather settings be on the way
-
-custom/weather
-
-```
-~/.config/waybar/config
-
-```
-how to add wallpapers
+#how to add wallpapers
 
 Move your photo.jpg 
 ```
