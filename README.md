@@ -25,6 +25,7 @@ super + v = cliphist (alt+del - clear history)
 super + m = quit session 
 
 super + r = terminal kitty
+```
 
 
 # how to add wallpapers
