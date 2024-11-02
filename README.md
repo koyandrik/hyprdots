@@ -9,6 +9,7 @@ cd hyprdots
 ```
 
 # binds
+
 '''
 super + c = kill process 
 
@@ -25,6 +26,7 @@ super + v = cliphist (alt+del - clear history)
 super + m = quit session 
 
 super + r = terminal kitty
+
 ```
 
 
