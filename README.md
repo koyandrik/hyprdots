@@ -8,7 +8,26 @@ cd hyprdots
 ./run.sh
 ```
 
-#how to add wallpapers
+# binds
+'''
+super + c = kill process 
+
+super + f = firefox
+
+super + e = nautilus
+
+super + h = full screen 
+
+super + d = rofi(dmenu)
+
+super + v = cliphist (alt+del - clear history)
+
+super + m = quit session 
+
+super + r = terminal kitty
+
+
+# how to add wallpapers
 
 Move your photo.jpg 
 ```
