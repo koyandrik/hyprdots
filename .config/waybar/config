@@ -10,8 +10,8 @@
 
     "modules-left": [
         "custom/wall",
-        "hyprland/workspaces",
         "custom/gamemode",
+        "hyprland/workspaces",
         "tray"
     ],
     
@@ -51,8 +51,8 @@
     },
     
     "clock": {
-        "format": " {:%I:%M:%S %p}",
-        "format-alt": " {:%a %b %d}",
+        "format": "{:%I:%M:%S %p}",
+        "format-alt": "{:%a %b %d}",
         "tooltip-format": "<big>{:%B %Y}</big>\n<tt><small>{calendar}</small></tt>",
         "interval": 1
     },
@@ -125,20 +125,21 @@
     },
 
     "custom/wall": {
-        "format": " <span color='#000000'> </span>",
+        "format": "  ",
         "on-click": "zsh ~/.config/hypr/scripts/wall.sh"
     },
 
     "custom/gamemode": {
-        "format": " <span color='#000000'>  </span>",
+        "format": " ",
         "on-click": "bash ~/.local/share/bin/gamemode.sh"
     },
 
     "custom/power": {
-        "format": "",
-        "exec": "echo ; echo  logout",
+        "exec": "~/.config/waybar/scripts/us.sh",
         "on-click": "~/.config/hypr/scripts/wlog.sh",
         "interval": 86400,
-        "tooltip": true
-    }
+        "tooltip": "Нажмите для выхода"
+}
+
+
 }

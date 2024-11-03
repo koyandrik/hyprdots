@@ -22,6 +22,8 @@ chmod +x .local/share/bin/brightnesscontrol.sh
 chmod +x .local/share/bin/globalcontrol.sh
 sudo systemctl start bluetooth
 clear
+chmod +x re-name.sh
+./re-name.sh
 /usr/lib/xdg-desktop-portal -rv
 clear
 sleep 1
